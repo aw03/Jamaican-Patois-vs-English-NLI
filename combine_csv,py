@@ -1,0 +1,25 @@
+"""
+Combine multiple CSV files with identical columns into one CSV.
+"""
+
+import pandas as pd
+
+# List your input files here
+input_files = ["datasets/jampatoisnli-test.csv", "datasets/jampatoisnli-train.csv", "datasets/jampatoisnli-val.csv"]
+output_file = "datasets/jamaican-patois-nli-dataset.csv"
+
+# Read and concatenate
+expected_cols = ["premise", "hypothesis", "label"]
+dfs = [pd.read_csv(f, usecols=lambda c: c in expected_cols) for f in input_files]
+combined = pd.concat(dfs, ignore_index=True)
+
+# Optional: remove exact duplicate rows (if any)
+combined = combined.drop_duplicates()
+
+# Save
+combined.to_csv(output_file, index=False)
+
+# Summary
+
+print(f"Combined {len(input_files)} files → {len(combined)} rows total.")
+print(f"Saved to {output_file}")
