@@ -1,0 +1,679 @@
+premise,hypothesis,label,english_premise
+"Me nuh know de policeman, but from me see him name me know seh a mus good smaddy😁😇","Me nuh know de policeman, but from me see him name me know seh a mus wicked smaddy",contradiction,"I don't know the policeman, but from what I see his name I know he's a good person😁😇"
+Mi all have fever 🥴,Mi temperature high,entailment,I have a fever 🥴
+Felt hungry earlier and due to how this lady a behave mi nuh hungry again 🙄😒,Mi neva feel hungry earlier but mi feel fi sumn fi eat right now,contradiction,I felt hungry earlier and due to how this lady is behaving I'm not hungry again 🙄😒
+Lol mi just wake up,Mi wake up long time,contradiction,Lol I just woke up
+Gas price gone up again. Nuh likkle peaceful protest?,Gas price nuh move since last year,contradiction,Gas prices have gone up again. No little peaceful protest?
+Mi luv di whole a oonu!,Mi nuh like none a oonu!,contradiction,I love all of you!
+Wata deh a road!! Hermitage full an ovaflow!!,Hermitage flood out! Di road full up a wata.,entailment,Water is on the road!! Hermitage is full and overflowing!!
+Rite yah now to how this yah virus ting set Jamaicans need to tell dem friends and family weh inna countries weh the virus a run wild fi stay weh dem deh,Jamaicans weh av fren an family abroad need fi encourage dem fi contribute more to di economy cause di exchange rate a get bad,neutral,Right now with how this virus thing is set up Jamaicans need to tell their friends and family who are in countries where the virus is running wild to stay where they are
+Everyday mi consider fi go country and do farming enuh.,Mi neva guh a country inna mi life,neutral,Every day I consider going to the country and doing farming.
+People get dem sale item and unno ah charge the original price,Sale a keep dung a di store weh wi usually visit inna Mobay,neutral,People get their sale items and you all are charging the original price
+Chrismus joy eena dem face,Dem glad bag buss,entailment,Christmas joy is in their faces
+"Jesum Peeze, a cyan bileeve dat mi lose de game",Mi cyaa believe seh mi win de game,contradiction,"Jesus Peace, I can't believe that I lost the game"
+"Mi have cash back credit card. Every November you get back a percentage a wah u spend fi the year. Mi do a bag a spending yesterday and go fi pree the damage and see seh mi balance still full, the cash back land and cover it",Mi have a credit card weh mi get inna November. Mi use it fi do a bag a spending wah day suh mi need fi guh check di balance,neutral,"I have a cash back credit card. Every November you get back a percentage of what you spend for the year. I did a lot of spending yesterday and went to check the damage and saw that my balance is still full, the cash back landed and covered it"
+No enuh. Me just nah sleep inna my room tonight.,Me nuh plan fi sleep inna my room tonight.,entailment,"No, I'm just not sleeping in my room tonight."
+Suh yuh tek off Antonio and lef bobby reid and gray out deh,Antonio and Bobby Reid nah guh wah drive guh a town,neutral,So you took off Antonio and left Bobby Reid and Gray out there
+just hope me nuh get none a di common one dem because me watch all a dem deh already,Dah dress deh common bad but mi woulda wear it,neutral,Just hope I don't get any of the common ones because I've watched all of them already
+deh ah country ah one street dance and mi knee dem cowl!!!!!!!!!,Mi deh a street dance up a country and mi knee dem a freeze off,entailment,They're having a street dance in the country and my knees are weak!!!!!!!!!
+dah purchase deh mash up everything,dah bwoy deh seh him a guh mash up everything,neutral,That purchase messed up everything
+Me no make no money fi 2020 I feel a way,Me feel bad seh mi neva really earn nuff inna 2020,entailment,I didn't make any money for 2020 I feel a way
+"I really commend unnu med school students, a nuff information unnu store inna unnu likkle Head dem. In the name of a career. God bless unnu",Mi feel seh med school students commendable cause a nuff facts dem haffi memorize fi dem career,entailment,"I really commend you medical school students, you store a lot of information in your little heads. In the name of a career. God bless you"
+Me really a play Backstreet Boys inna cassava piece at 2 am,Me a guh play some Backstreet boys inna cassava piece next time mi guh deh,neutral,I'm really playing Backstreet Boys in Cassava Piece at 2 am
+Me need fi check inna one hotel,Di hotel weh mi plan fi guh look like it full,neutral,I need to check into a hotel
+"A nuff stylings ya guh get inna life, nuh mek them depress yuh, mek then grow yuh",Nuff times people a guh try diss yuh inna life but yuh cyaa mek dem bring yuh down. Yuh affi learn from dem,entailment,"There are a lot of styles you will get in life, don't let them depress you, let them help you grow"
+A long time mi no get sick enuh 🥵😭😭,Mi neva did feel too well yesteday,contradiction,It's been a long time since I got sick 🥵😭😭
+Mi excited fi si how cashpot aguh advertise inna di miggle a some a di worl cup match dem,Di cashpot advertisement dem inna di miggle a di worl cup match dem nuh really too appealing to mi,contradiction,I'm excited to see how Cashpot is going to advertise in the middle of some of the World Cup matches
+Deh yah wid the same dawgs from 1st form and ntn nah go change 🙏🏽❤️ love me Bredda dem,Me a par wid di same man dem from 1st form an dat nah guh change,entailment,I'm here with the same friends from 1st form and nothing is going to change 🙏🏽❤️ love my brothers
+A di longest 2 weeks dis inna my life,A di quickest 2 weeks dis inna mi life,contradiction,These are the longest 2 weeks in my life
+feel fi a chicken patty and coco bread,Feel fi some breadfruit and jerk chicken,neutral,I feel like having a chicken patty and coco bread
+Me stop buy clothes but food inna me house.,Me still a buy nuff clothes nowadays,contradiction,I stopped buying clothes but food is in my house.
+"Mi can talk to you fi one whole day, prolly inna the Mawning as u wake up.
+Once I am bored and done ✅ 
+That’s it",Mi wake up early dis mornin fi guh post office cause mi need fi avoid di line,neutral,"I can talk to you for a whole day, probably in the morning as you wake up.
+Once I am bored and done ✅ 
+That’s it"
+Me nuh deh a road,Me nuh sleep from mawnin,neutral,I'm not out on the road
+Feel fi likkle Euphoria later,Mi feel fi watch some Euphoria lata,entailment,I feel like a little euphoria later
+Mi nuh wah see road after 12 today cause one bc piece a traffic set fi gwan today,Mi wah come off a di road by 12 today fi avoid di traffic,entailment,I don't want to see the road after 12 today because there's a big piece of traffic set to happen today
+The receptionist put on John Legend on the computer and all the patient dem turn singer,The receptionist start play John Legend an all a di patient dem start sing,entailment,The receptionist put on John Legend on the computer and all the patients turned into singers
+Me a procrastinate fi bout 7 hrs now and as soon as me fi do me essay me tired,"Me a write dis essay fi a good while now, procrastination still nuh reach mi",contradiction,I've been procrastinating for about 7 hours now and as soon as I have to do my essay I'm tired
+Feel like wing it inna dah exam yah cause dem past paper yah a hurt me feelings,Cyaa deal wid dem past paper yah so mi might just wing it inna di exam,entailment,I feel like winging it in this exam because these past papers are hurting my feelings
+"Mi nah wear nuh jacket, afta mi nuh name micheal Jackson",Mi a guh wear mi jacket. ,contradiction,"I'm not wearing any jacket, after all, I'm not named Michael Jackson"
+Dats why yuh must grow wid yuh granny or at least visit har because dem got the remedy fi everything,Wi granny neva teach wi di remedy weh she use to use fi mek coconut drops,neutral,That's why you must grow up with your granny or at least visit her because they have the remedy for everything
+Mi tired. Cyaan recover from that exam yesterday 😔,Mi wah sleep. Dah exam deh yesterday lick mi fi six,entailment,I'm tired. Can't recover from that exam yesterday 😔
+Girl bye. Mother’s fi lockdown dung immediately. Issa health hazard but whatever just cause u seh dat mi ago see,"Dem need fi shut down Mother's. Dem nah run di restaurant good, it nuh really safe",entailment,Girl bye. Mothers need to lockdown immediately. It's a health hazard but whatever just because you said that I'm going to see
+Best believe mi seh mi nah try fi be nuhbody favourite 💯.,Island Grill fries a mi favorite,neutral,Best believe I said I'm not trying to be anybody's favorite 💯.
+Mi nyam all a di peppered steak,Mi nuh really like peppered steak suh yuh nah guh eva see mi a eat much,contradiction,I ate all of the peppered steak
+Went to Wendy’s wid me likkle bit a money fi buy salad and haffie get biggie box instead yessideh.,Yessideh mi bring nuff money guh Wendy's and end up buy dem salad and a biggie box,contradiction,I went to Wendy’s with my little bit of money to buy salad and ended up getting a biggie box instead yesterday.
+Tired fi go school everyday,Everyday mi tek bus guh school,neutral,I'm tired of going to school every day
+All if mi smell that mi nah stop sneeze enuh,From mi smell dat it a guh mek mi sneeze,entailment,Even if I smell that I'm not going to stop sneezing
+A pure carelessness did mek the news inna 2021 eno 😫😫😫,People did careless wid dem driving inna 2021 eno,neutral,A lot of carelessness made the news in 2021 you know 😫😫😫
+buy sumn online over a month now and it reach jamaica from 5 days after mi order it and all now mi can’t get it 😕,Every time mi buy sumn online mi get it faas,contradiction,I bought something online over a month ago and it reached Jamaica 5 days after I ordered it and still I can't get it 😕
+Mi want sumn nice fi eat,Mi feel fi eat sumn good,entailment,I want something nice to eat
+"Star fruit dem deh, jimbilin smaller",Nuh star fruit nuh deh pan mi tree,neutral,"Star fruit is there, jimbilin is smaller"
+"Big ppl drink tea and coffee and juice. Lil pikney drink horlicks, milo, porridge and dem ting deh",Likkle pikney love fi drink soda,neutral,"Big people drink tea and coffee and juice. Little kids drink Horlicks, Milo, porridge and those things"
+Mi need fi fly out,Mi fly out wid mi cousin fi guh carnival last year,neutral,I need to fly out
+Them fe go work fe dem self,Dem fi go find work fi dem self,entailment,They need to go work for themselves
+Nuh work Nuh deh bout,Nuff work deh bout,contradiction,No work is not out there
+"Mi can bake that. Mi mek a wikid mango one wid all mango whipped cream. Long time mi nuh do that...nope, it nah happen anytime soon needer",Mi know how fi bake dat man. Mi mek a mango flavor one before,entailment,"I can bake that. I made a wicked mango one with all mango whipped cream. It's been a long time since I did that...nope, it's not happening anytime soon either"
+Them kinda people deh me need inna me life,Me nuh need people like dem deh inna mi life,contradiction,Those kinds of people are the ones I need in my life
+Mi nuh greedy,Mi greedy bad,contradiction,I'm not greedy
+me wa go zimi seh brunch still,zimi seh brunch nah guh see me. mi nuh really feel fi guh,contradiction,I want to go Zimi for brunch still
+Unuh realize seh cake sales deh in a competition wid KFC prices?,Di cake dem nuh taste suh good again cause dem a use too much sugar,neutral,Do you realize that cake sales are in competition with KFC prices?
+Me feel lazy fi go cook or buy food,Me nuh feel fi mek nuh food or buy nutn,entailment,I feel lazy to go cook or buy food
+mi have work a mawnin,mi naav work a mawnin,contradiction,I have work in the morning
+If mi nuh start gah mi bed early the bag dem under mi eye aguh get dark,Mi nuh like how dem deal wid di bag dem a di airport,neutral,If I don't start going to bed early the bags under my eyes are going to get dark
+"yo, nothing cya stop u once u believe inna yuhself enuh !",Believing inna yuhself only a guh tek yuh up to a certain point,contradiction,"Yo, nothing can stop you once you believe in yourself you know!"
+Suh like how Jamaica owe such country money an such country link wid such country thick thick dat means seh technically we safe if nuttin fi pop off over this side right?,"Suh Jamaica plan fi decide pan a plan fi become a republic like Barbados, or dem still nuh serious?",neutral,So like how Jamaica owes such countries money and such countries are linked with such countries thick thick that means technically we are safe if nothing pops off over this side right?
+"Cah bring me go Taco a Tuesday enuh, go deh wid a empty belly and leave wid a empty wallet",If yuh bring me go a Taco Tuesday mi definitely nah buy nutn,contradiction,"Can't bring me to Taco on a Tuesday, go there with an empty belly and leave with an empty wallet"
+LOL.. Suh unu just surprise ppl wid car and dem sumn deh..,Unu need fi get a car an stop depend pan mi everytime unu waa fi guh country,neutral,LOL.. So you all just surprise people with cars and those things..
+"Unlike most a unnu me nuh ave rich family , nave nuh family and send in the funds , nuh deh overseas a mek foreign currency ..... Give thanks sedway .... Rough but me nuh kno nuh other way ... Give thanks .... Love my life regardless ....","Me nuh fortunate like nuff a unnu fi ave rich family, but mi still grateful",entailment,"Unlike most of you I don't have a rich family, I don't have family sending in the funds, I'm not overseas making foreign currency ..... Give thanks anyway .... Rough but I don't know any other way ... Give thanks .... Love my life regardless ...."
+Being humble nuh mean seh yuh fi mek people tek step a yuh!.,Sometimes yuh haffi choose fi be humble suh people nuh grudge yuh,neutral,Being humble doesn't mean you should let people walk all over you!
+Mi likkle backyard sorrel crop dead out wah day ya 😭,All a mi sorrel plant dem still a grow. Dem red an pretty so mi know dem a guh taste nice,contradiction,My little backyard sorrel crop died the other day 😭
+No man sumn wrong wid unuh,Unuh love guh ballgame,neutral,No man something is wrong with you all
+Mi shed a tear in the middle of the ceremony cause mi feel proud a miself,Mi eye dem start run wata inna di ceremony di way how mi proud,entailment,I shed a tear in the middle of the ceremony because I felt proud of myself
+Dem a get vote out next election 🗳,Dem a guh lose next election,entailment,They are going to get voted out next election 🗳
+Me tired Fi make decisions for ppl. Me just waa relax now and somebody plan for me ugh,Me always end up a mek decisions for people. Now mi waa smaddy mek decisions fi me,entailment,I'm tired of making decisions for people. I just want to relax now and have somebody plan for me ugh
+Mi hungry till it look bad.,Mi need fi eat sumn bad,entailment,I'm hungry until it looks bad.
+Night soon come down and me nuh start eat yet😡,Night soon come and me nuh start study fi di exam yet,neutral,Night is soon coming down and I haven't started eating yet😡
+The yute deh a Canada inna him big work,Di yute nuh really need fi luk nuh work right now cause im av a big job,entailment,The youth is in Canada at his big job
+Mi still bruk,Mi naav nuh money,entailment,I'm still broke
+Bad flu box me fi six yesterday usi jah jah never know mi coulda sleep so.,Mi neva feel too too well yesterday. Bere sleepin mi do.,entailment,"A bad flu hit me for six yesterday, I never knew I could sleep so much."
+The edge control melted. Mi tell unu day Bogue a the hottest place inna Jamaica.,Bogue heat nuh normal! All mi edge control melt,entailment,"The edge control melted. I tell you, Bogue is the hottest place in Jamaica."
+unu tan de bout its jus a flu and out de nah mask up,di mask drop offa mi face an fly gone suh mi borrow one from mi fren,neutral,You all stand about it's just a flu and out there not masking up
+Mi deya a watch one Turkish show.,A di fuss time dis mi eva watch one Turkish show,neutral,I'm here watching a Turkish show.
+Lol buy all outfit fi guh brunch and naw guh. Know me naw go nuh weh after this. No waah nobody ask me bout nuh event next year needa.,Know seh mi a guh every brunch weh dem keep dis year. None nah guh miss mi.,contradiction,Lol bought a whole outfit to go brunch and I'm not going. Know I'm not going anywhere after this. I don't want nobody asking me about any events next year either.
+Nobody else nuh deh deh,Nuff people deh deh. Di place nuh really empty,contradiction,Nobody else is there
+A mi bredda,Mi nuh related to him,contradiction,It's my brother
+Been a search fi dah video yah fi a while,Long time now mi a look fi dah video yah,entailment,I've been searching for that video for a while
+Dem ppl yaaa live luxury life ino... unu 1st car dem brand new n dem ting deh,Dem people yah a struggle enuh...most a dem still nuh own dem first car,contradiction,Those people live a luxury life you know... your first car is brand new and those things
+Den di DJ tun up di music even louda,Di party ded cah nuh music nuh really a play,contradiction,Then the DJ turned up the music even louder
+I was in juicy beef and yuh know say mi stress out til mi phone drop,Mi phone drop wen mi did deh inna juicy beef,entailment,I was in Juicy Beef and you know I stressed out until my phone dropped
+Mi nuh respect coward,Mi nuh rate nuhbody who a coward,entailment,I don't respect cowards
+Feel fi go stay inna one a them hotel deh pon the 7 mile beach next week,The hotel dem pon the 7 mile beach expensive fi book,neutral,I feel like going to stay in one of those hotels on the 7 Mile Beach next week
+Mi jus a watch Miss Jamaica world followers going up every time I go on her page. Yea girl!,Mi cyaa believe seh Miss Jamaica world neva win di title. She deserve it!,neutral,I'm just watching Miss Jamaica World followers going up every time I go on her page. Yeah girl!
+Nuh reach weh me want inna life. But inna me heart me know me a do best and a help who me can along the way so me affi rate meself.,Reach weh me want inna life long time. Me work and do me best suh mi affi rate meself,contradiction,"I haven't reached where I want to be in life. But in my heart, I know I'm doing my best and helping who I can along the way so I have to rate myself."
+right inna New Kgn .. mi have receipt fi show say the deposit gwan good but ntn in my account lol,Dem a gwaan wid bere tings up inna di dance a New Kingston,neutral,Right in New Kingston .. I have a receipt to show that the deposit went through good but nothing is in my account lol
+"City ppl nuh come out till sun down, u feel the sun round deh? It hot pon a diff lvl",City people nuh really come out till evenin cause a di way how di place hot weh dem come from,entailment,"City people don't come out until sundown, do you feel the sun around there? It's hot on a different level"
+Mi sure mi see this earlier today.,Mi neva see dis yet!,contradiction,I'm sure I saw this earlier today.
+Deh question deh nuh fi ask bredda,Wen mi seh sumn mi need unuh fi respond,neutral,That question shouldn't be asked brother
+Mi not even bother tell her mi seet long time.,Mi tell her seh mi dweet already,neutral,I'm not even going to bother telling her I saw it a long time ago.
+Mi feel for a goat belly soup,Mi wah eat some goat belly soup,entailment,I feel like having goat belly soup
+My mother come all di way frm foreign and have mi a walk inna market wid bag pon mi shoulder! I dnt do them things mama!! #BigSon #OnlyChild,Mi mother neva come from foreign come visit mi last year wen mi sick,neutral,My mother came all the way from abroad and had me walking in the market with bags on my shoulder! I don't do those things mama!! #BigSon #OnlyChild
+Having a degree without a business mind you ago stuck one place inna life,Da business deh a guh mek money fi life!,neutral,Having a degree without a business mind you're going to be stuck in one place in life
+If dah coach yah come out halftime wid him team setup like this him not supposed to finish the game as our manager,Dah coach yah nuh normally mek Brian play inna di match dem,neutral,If that coach comes out at halftime with his team set up like this he's not supposed to finish the game as our manager
+I wah cough so bad but me cah bada wid the judgements 😂😷,Mi waa cough but mi nuh waa nobody pree me,entailment,I want to cough so bad but I can't bother with the judgments 😂😷
+Half tank go mobay and come back. Even less fi a porty trip.,Mi bredda nyam out half a di rice weh inna di pot ,neutral,Half a tank goes to Mobay and comes back. Even less for a party trip.
+Mi nervous fi miss south Africa,Mi confident bout miss south africa,contradiction,I'm nervous about missing South Africa.
+Police stop me pan Ochi toll and seh Miss McCalla u nuh tired fi mi write u ticket now? I laughed but mi shame,"One ting bout mi, police neva stop mi yet. Mi always manage fi avoid dem",contradiction,"Police stopped me at the Ochi toll and said, 'Miss McCalla, aren't you tired of me writing you a ticket now?' I laughed but I was ashamed."
+Nuh wah none a da cake deh,Wah taste some a da cake deh,contradiction,I don't want any of that cake.
+True dem never see nuh tears inna me eyes but me heart cry.,Me nuh have di heart fi tell him di truth.,neutral,"True, they never saw any tears in my eyes but my heart cries."
+Like dem fi add the option fi be more hands on inna college and mek we try earn money while doing our specializations,Dem fi stop wid di hands on activity dem inna college cause wi busy wid wi schoolwork,contradiction,They should add the option to be more hands-on in college and let us try to earn money while doing our specializations.
+Pree how mi almost buck off me farrid inna di bus wid sleep and now that I’m in bed nothing,Mi did a struggle fi drop a sleep inna di bus but as mi reach a mi yaad a me dat a snore,contradiction,"Check how I almost fell asleep on the bus and now that I’m in bed, nothing."
+Cyaa believe United just dash weh club legend like him,United produce nuff legend ova di past few years,neutral,Can't believe United just threw away a club legend like him.
+Lil Durk did mek di song better,Lil Durk did mek di song soun worse,contradiction,Lil Durk made the song better.
+Me jus inna me bed every night a eat food 😐,Me neva eat food inna mi bed inna mi life. Affi siddung roun a table,contradiction,I'm just in my bed every night eating food 😐
+As mi get the money it done 😔,As di money come it gone,entailment,"As soon as I get the money, it's gone 😔"
+"When a time fi things done you simply cannot fight it cause one way or another them aguh end. You naffi like it, you just affi live wid it.",Fight bruk out a dung a stadium inna di evening afta di race dem done,neutral,"When it's time for things to end, you simply cannot fight it because one way or another, they are going to end. You may not like it, you just have to live with it."
+Corn nuh belong inna porridge.,Porridge fi mek wid corn,contradiction,Corn doesn't belong in porridge.
+Mi waan sleep.,Mi feel tiyad,entailment,I want to sleep.
+Mi tiad fi see ppl a debate bout Konshens business 🙄,Mi love fi see people a debate bout Konshens mixup,contradiction,I'm tired of seeing people debate about Konshens' business 🙄
+Yo I have such a bad habit as mi finish eating mi lay down on my stomach and then fall asleep 🙄,As mi finish eat mi guh exercise. Mi neva eat and den waa sleep before,contradiction,"Yo, I have such a bad habit; as soon as I finish eating, I lay down on my stomach and then fall asleep 🙄"
+Mi really feel like mi shoulda guh culture clash.,Culture clash neva keep inna Mobay,neutral,I really feel like I should have gone to Culture Clash.
+Feel fi stuffed crust pizza and rum.,Mi neva drink rum yet and mi nah guh eva waa drink it,contradiction,Feeling for stuffed crust pizza and rum.
+Neva expect traffic fi deh pan di road,Frighten fi see traffic pan di road,entailment,Never expected traffic to be on the road.
+Suh minute maid start stock them juice Inna laundry detergent bottle now 😂😂😂 know who nah drink that.,Laundry detergent bottle minute maid start put dem drinks inna suh mi nah drink dat,entailment,So Minute Maid started stocking their juice in laundry detergent bottles now 😂😂😂 know who won't drink that.
+Mi leff work 8:00 last night and deh inah traffic a inch go home,Mi leff work from 3:00 last night fi avoid di traffic suh mi reach home quick,contradiction,I left work at 8:00 last night and was in traffic inching home.
+Bredda mi still inna disbelief.,All now mi nuh believe.,entailment,"Brother, I'm still in disbelief."
+$200JMD fi a Catherine's peak bottle of water. Mi cyaa manage negril,Dem a charge $200JMD fi a bokkle a Catherine's Peak inna Negril,entailment,$200 JMD for a Catherine's Peak bottle of water. I can't manage Negril.
+A dem dumpling ya David stone Goliath wid,Dem dumpling ya tough bredda,entailment,These dumplings are like David against Goliath.
+mi coworker dem feel seh mi run taxi,mi coworker dem know seh mi nuh run taxi,contradiction,My coworkers feel like I run a taxi.
+Or call a bredren to bring you lickle gas inna bokkle 🤣🤣,Mi frighten fi see seh dem raise di gas price,neutral,Or call a friend to bring you a little gas in a bottle 🤣🤣
+"Anyway, me need an outfit for zimi seh Riva",Mi done buy mi outfit fi Zimi Seh Riva long time,contradiction,"Anyway, I need an outfit for Zimi, says Riva."
+mi must make chicken alfredo when mi go home doe,mi love fi eat chicken alfredo,neutral,I must make chicken alfredo when I go home though.
+Di people dem finally pay mi!!,All now mi still a wait fi dem pay mi!!,contradiction,The people finally paid me!!
+Just know seh me still nuh reach mi yard😭,All now mi nuh reach home yet,entailment,Just know that I still haven't reached my yard😭
+We nuh fret we just go wid the moment,We neva waa fi buy nutn a Grand Market,neutral,"We don't fret, we just go with the moment."
+Deh one yah fly over u head mi boss,Mi boss a guh fly out next week,neutral,"This one flies over your head, my boss."
+Me just nuh inna the mood for the road lol,Me nuh feel fi do road,entailment,I'm just not in the mood for the road lol.
+Mi fi leave mi yard and cnt to how mi glued to mi tv,All now mi nuh lef mi yaad yet cause mi a watch tv,entailment,I have to leave my yard and can't believe how I'm glued to my TV.
+Mi literally dark seh mi go Supermarket and buy Pancake mix and figet fi buy syrup,Imagine mi guh buy pancake mix an neva buy nuh syrup. Mi upset man,entailment,I literally forgot that I went to the supermarket and bought pancake mix and forgot to buy syrup.
+Know mi never hear a artist seh Beenie man a him artist yet,Mi always a hear artist seh Beenie Man a dem artist,contradiction,I know I've never heard an artist say Beenie Man is their artist yet.
+Nuh everybody ago rate your friends or who you associate with inna life,Yuh affi careful who you mek friends wid an associate wid,neutral,Not everybody is going to rate your friends or who you associate with in life.
+Mi wah guh home,Mi wah guh a mi yaad,entailment,I want to go home.
+Mi nuh like people set mi up pon dates,Mi love wen mi fren dem set mi up pon dates wid people weh mi nuh know,contradiction,I don't like people setting me up on dates.
+All when mi cousin dem Mek the monster trucks with the big sibble oranges and run dem down hill street....oh what memories!,Mi use to love guh dung a mi granny wid mi cousin dem guh pick orange and play marble,neutral,"Even when my cousins made the monster trucks with the big sible oranges and ran them down the hill street... oh, what memories!"
+Most mi a expect out today match is a draw,Mi nuh expect nutn less dan a win fi di match today,contradiction,Most I expect from today's match is a draw.
+Reach work 8am and by 8:05am mi ready fi go a mi yaad😂,As mi reach work mi wah guh home,entailment,"Reached work at 8 am and by 8:05 am, I was ready to go home 😂"
+Mi brother weh mi live wid 21 years of my life weh birthday a three days before mine a regular mi figet it 🤣,Mi neva yet figet mi bredda birthday cause him birthday fall three days before mine,contradiction,"My brother, who I've lived with for 21 years of my life, has a birthday three days before mine, and I usually forget it 🤣"
+"Spanish league mi team inna, but mi affi watch the best league inna the world","European league mi team inna, but mi still a guh watch di best league inna di world",contradiction,"I'm in the Spanish league, but I have to watch the best league in the world."
+Mi nuh eat beef.,Mi love nyam beef patty,contradiction,I don't eat beef.
+Mi wa delete alla mi social media and run weh,From mi guh out mi a guh post sumn pon social media,neutral,I want to delete all my social media and run away.
+mi keep pray fi the youths dem,Mi pray inna di Youth's Convention a church now and again,neutral,I keep praying for the youths.
+Mi av a headache and mi just wan disappear right now cause of it,"Mi nuh feel too well, mi inna pain right now",entailment,I have a headache and I just want to disappear right now because of it.
+Mi av ackee ina mi bag😕 neva want it spoil,Mi naav nuh sweetsop,neutral,I have ackee in my bag😕 never wanted it to spoil.
+hope mi get fi go out weekend,Mi neva get fi guh Hope Gardens,neutral,Hope I get to go out this weekend.
+Mi kinda tired a staff party now lol,Mi like fi guh di staff party dem,contradiction,I'm kind of tired of staff parties now lol.
+Dem set a Reggae Boyz ya nuh hungry at all. A vacation dem deh pon,Dem Reggae Boyz yere a duh dem ting. Dem really a work fi it,contradiction,"They set a Reggae Boyz here, not hungry at all. They're on vacation."
+Mi deven know she did deh deh 😭,Mi know seh she did deh deh,contradiction,I didn't even know she was there 😭
+Wine tasting in Constant Spring 🇯🇲nuh too bad after all. Mi feel nice.,Di restaurant dem roun a Constant Spring appetizer dem always sell off an taste nice,neutral,Wine tasting in Constant Spring 🇯🇲 isn't too bad after all. I feel nice.
+No think me sleep fi 8 hours yet from Sunday 🙃,Mi a sleep down di place since Sunday,contradiction,I don't think I've slept for 8 hours yet since Sunday 🙃
+Mi stop loan money. Ppl dont pay back and Bailiff expensive. Mek the bank dem tek on that. They were so structured.,Mi nuh really len people money cause dem nuh pay mi back,entailment,I stopped loaning money. People don't pay back and bailiffs are expensive. Let the banks take on that. They were so structured.
+We need fi stop make dem feel like we frighten. Nuff time me go tourist places and them break the rules and get away with but mek we do it!,It look like more tourist start come since dem loosen up di restrictions dem. Mi frighten fi see how di beach full wen mi go a Negril weh day,neutral,"We need to stop making them feel like we're scared. Many times I go to tourist places and they break the rules and get away with it, but let us do it!"
+Mi car waa wash enuh,Mi need fi wash mi car,entailment,"My car needs washing, you know."
+Soon as me touch inna the people them job me wah sleep,Soon as mi reach work mi tiyad,entailment,"As soon as I touch the people's job, I want to sleep."
+You will never know a man real personality till you put money inna dem hand,You cyaa tell smaddy true personality till yuh gi dem money fi deal wid,entailment,You will never know a man's real personality until you put money in their hands.
+Captain's bakery nuh have no black Forrest cake and them stop take orders.,Captain's bakery nuh have no red velvet cake from May come,neutral,Captain's Bakery doesn't have any Black Forest cake and they've stopped taking orders.
+Nuh know weh unuh a do but mi a spend my entire Boxing Day done “YOU” series 2,Mi plan fi spend di wul a Boxing day a binge You season 2,entailment,"I don't know what you all are doing, but I'm spending my entire Boxing Day watching the 'YOU' series 2."
+mi can just look pon a man and know seh a Portmore him come from 😂,from mi see a man mi can tell seh him come from portmore,entailment,I can just look at a man and know that he's from Portmore 😂
+Police dem deh ochi wid dem ticket book like dem a play sword in hand 😭,Di ticket dem fi guh di party weh dem a keep up a Ochi kinda expensive,neutral,The police are in Ochi with their ticket books like they're playing sword in hand 😭
+Tell 876 Terrace seh dem pasta look rancid. Idk wah dat.,876 Terrace pasta look good! Mi woulda buy it again.,contradiction,Tell 876 Terrace that their pasta looks rancid. I don't know what that is.
+Pree seh me wah some KFC wings ya now,Mi hate fi eat KFC wings,contradiction,I want some KFC wings right now.
+Mi granny done live a long fruitful life suh dem try nuh come wid it,Mi granny always a plant fruit tree roun a har yaad,neutral,"My granny lived a long fruitful life, so they should try not to come with it."
+My likkle savings nah guh tolerate JPS an dem foolishness!,All wah JPS a gwaan wid mi sure seh mi can afford dem bill,contradiction,My little savings won't tolerate JPS and their foolishness!
+Me nuh just see man a Jet Ski pon road out deh ?,Me still nuh come offa di road yet,neutral,Did I just see a man on a jet ski on the road out there?
+The weather confuse today it wah rain and the sun wah shine! Make up your mind deh please,Rain fall an wet up all a di clothes dem weh mi av outside a hang up pon di line,neutral,"The weather is confusing today; it's going to rain and the sun is going to shine! Make up your mind, please."
+All now mi cya sleep because a the dancehall mix up. As mi lock mi eyes supm new come out 😂😂,"Some dancehall mixup a gwaan, but mi neva really a medz it. Mi neva really did a pay it nuh attention suh mi nuh really know wah happen",contradiction,"I still can't sleep because of the dancehall mix-up. As soon as I close my eyes, something new comes out 😂😂"
+Nah lie when me loose motivation me just guh pree the job listings and haow much dem a pay and that gets me going again,Dem a ask fi people write long long cover letter fi apply fi di likkle work but mi sure seh dem nah guh read dem,neutral,"I'm not lying; when I lose motivation, I just check the job listings and see how much they're paying, and that gets me going again."
+Mi hate thigh! Mi rather eat so so rice and gravy before me eat thigh,Mi hate fi eat chicken leg! Mi rather eat so so rice and gravy before mi eat dat,neutral,I hate thighs! I'd rather eat plain rice and gravy before I eat thighs.
+Arsenal just hard fi watch,Mi love fi watch Arsenal play,contradiction,Arsenal is just hard to watch.
+Bro every time me eat a zinger me wah sleep 😩,Every time me eat a zinger mi tired,entailment,"Bro, every time I eat a Zinger, I want to sleep 😩"
+ketch the pigeon a fast inna me phone,mi use mi phone fi film dis video wid one pigeon,neutral,Catch the pigeon fast in my phone.
+"A long time mi nuh eat likkle season rice, mix up with salt fish or sausage u knw good food ☺️",Mi eat season rice wid saltfish weh day deh,contradiction,"It's been a long time since I ate little seasoned rice mixed with saltfish or sausage, you know, good food ☺️"
+My productivity levels deh ground rn,Mi feel well productive right now,contradiction,My productivity levels are on the ground right now.
+Cya seh you love somebody and a ignore them😪,If you love somebody yuh cyaa ignore dem,entailment,You can't say you love somebody and ignore them 😪
+Girl nuh suh hard fi look pon at all,Girl deh look good,entailment,Girls aren't that hard to look at at all.
+A dem fi get the money,Dem nuh deserve di money,contradiction,They should get the money.
+If a one thing me nu figet fi do a day time is pray,Granny seh she always a pray fi mi,neutral,"If there's one thing I won't forget to do during the day, it's pray."
+Titanfall a tek a lifetime fi install,Titanfall tek long fi install,entailment,Titanfall is taking a lifetime to install.
+"If I was Kyle, I would come back a mi yaad and play inna premier league","If I was Kyle, mi a stay deh instead a come back a mi yaad fi play inna Premier League",contradiction,"If I were Kyle, I would come back to my yard and play in the Premier League."
+Fava yuh neva deh bout in the 70's an 80's. Tank God them young politicians ah change di landscape fi gud,Dem young politicians deh interact more wid di people dem,neutral,"Fava, you weren't around in the 70s and 80s. Thank God those young politicians are changing the landscape for good."
+Mi gone sleep now,Mi a guh a mi bed now,entailment,I'm going to sleep now.
+Bwoy Netflix can be trash more whole enuh,Netflix show dem always nice fi watch,contradiction,"Boy, Netflix can be trash for a whole while."
+Everybody stay home so me and mi frien dem can outside safely please?,Dem still a play ball game wid dem fren dem outside,neutral,"Everybody stay home so my friends and I can go outside safely, please?"
+Want somebody fi jog wid a night time,Waa fi find one jogging partner fi run wid wen night come,entailment,I want someone to jog with at night.
+Me nuh think me ever feel so stress and emotional inna my life,Me neva feel so stress out yet!,entailment,I don't think I've ever felt so stressed and emotional in my life.
+Me still deh yah mi dear.  So much for my no midnight working plan.  You know how it guh.,Me neva get nuh time fi cook nuh dinner cause mi did a review di slide dem fi di exam,neutral,"I'm still here, my dear. So much for my no midnight working plan. You know how it goes."
+yea mi fren. we deh ya fi a good time not a long time,Mi an mi fren did deh inna di riva fi a long time,neutral,"Yeah, my friend. We're here for a good time, not a long time."
+3 week now skillibeng - brik pon brik deh pon repeat inna playlist,3 week now mi a listen to brik pon brik,entailment,"It's been 3 weeks now, Skillibeng - 'Brik Pon Brik' is on repeat in my playlist."
+Bredren just tell mi seh road in a few and mi phone deh a 6%,Mi phone done charge suh mi ready fi touch road anytime dem ready,contradiction,"A friend just told me that the road is clear in a few, and my phone is at 6%."
+Mi like dah new koffee here,Dah new koffee here tun up!,entailment,I like this new Koffee here.
+Mosquito bite mi pon mi foot back,Mi av a mosquito bite pon mi foot back,entailment,A mosquito bit me on my foot.
+Mi a tek antibiotics like sweety,Mi always a tek antibiotics,entailment,I'm taking antibiotics like candy.
+Cyaa be a comedian... Ppl tek mi too serious when mi gi joke and tek mi fi joke when mi serious. Sigh,People always a laugh afta mi joke dem suh mi feel like maybe mi coulda do comedy,contradiction,I can't be a comedian... People take me too seriously when I joke and take me for a joke when I'm serious. Sigh.
+My mother a post pon fi har status like she nuh see my message.The disrespect.,My mother a ignore mi message but have time fi a put up status.,entailment,My mother is posting on her status like she doesn't see my message. The disrespect.
+10 o clock me a touch out fi grand market likkle more enuh,Mi plan fi guh grand market roun 10,entailment,"At 10 o'clock, I'm about to head out for the grand market a little later, you know."
+Thunder and lightning already inna Portmore,Sun a shine bright inna Portmore,contradiction,Thunder and lightning are already in Portmore.
+Mi hungry bad,Mi tired suh till,neutral,I'm really hungry.
+Di ppl dem pan di road nuh have no weh a go. I need to come off the road. Mi presha,Last week mi an Shane duh road but wi neva av nuff money fi spen,neutral,The people on the road have nowhere to go. I need to get off the road. I'm stressed.
+"Wah, police dem a gwaan wid beer tings",Di police dem deh down deh a drink beer,neutral,"Wow, the police are doing a lot of things."
+Hungry a kill mi,Tired a kill mi,neutral,Hunger is killing me.
+She a diss mi formative years. Mi haffi seh supm,She neva haffi seh nutn,neutral,She's disrespecting my formative years. I have to say something.
+Me inna one meeting and me can't concentrate 🥴🙄,Me inna di church and me can't concentrate pon wah di pastor a seh,neutral,I'm in a meeting and I can't concentrate 🥴🙄.
+Need fi start sue Jamaican companies fi bad and overpriced service,Mi feel like seh di Jamaican hotel dem price dem nuh too bad,neutral,I need to start suing Jamaican companies for bad and overpriced service.
+A cyaa my madda alone use to pack up clothes wah mi naw wear and give them weh WITHOUT CONSULTING ME.,My madda use to tek mi clothes dem and gi dem weh widdout mi permission,entailment,My mother alone used to pack up clothes that I don't wear and give them away WITHOUT CONSULTING ME.
+"Mi Inna my bed, next week UWI see me.",Mi a guh UWI dis evenin,contradiction,"I'm in my bed, next week UWI will see me."
+Mi just a sleep dung the place so 😩,Mi a drop a sleep lef right and centre,entailment,I'm just sleeping all over the place so 😩.
+Benz still deh ah di dealership,Toyota still deh a di dealership,neutral,The Benz is still at the dealership.
+Yow mi ago buy lotto tomorro,Tomorrow mi a guh buy lotto ticket,entailment,"Hey, I'm going to buy a lottery ticket tomorrow."
+Mi not even undastan di proverb,Mi nuh fully get weh di proverb a seh,entailment,I don't even understand the proverb.
+Adulting rough me nah lie,Adulting nuh easy at all,entailment,"Adulting is rough, I'm not lying."
+then it look like me haffi go start mek patty!! a patty and fruits this child wah eat alone,mi need fi learn fi mek patty! fruits and patty is all dis pikney eat,entailment,Then it looks like I have to start making patties!! A patty and fruits is all this child wants to eat alone.
+Man deven deh a di club and unu cya stop his picture,Mi nuh really tek picture wen mi deh inna di club,neutral,The man is even at the club and you all can't stop his picture.
+Mi bak a hat mi,Mi neck a hurt mi,neutral,I'm back in a hat.
+As mi reach home mi wah sleep,Once mi reach mi house mi feel tiyad,entailment,"As soon as I reach home, I want to sleep."
+Mi inna mi bed,Mi bed comfortable bad,neutral,I'm in my bed.
+"Cyah believe Sting nuh keep again, is like all a di nice tings dem stop gwan when mi finally reach of age",Once yuh reach of age yuh realize seh adulthood is a different ball game,neutral,I can't believe Sting isn't happening again; it's like all the nice things stopped happening when I finally reached of age.
+Mi sorry seh ano Zuma score  lol,Mi glad seh a nuh Zuma score,contradiction,I'm sorry that Zuma didn't score lol.
+Mi jus wake,Mi wake up long time,contradiction,I just woke up.
+Meeda like fi know too,Mi nuh wah know,contradiction,I would like to know too.
+Mi gone back a mi bed gone sleep,Mi a guh back guh sleep,entailment,I'm going back to my bed to sleep.
+Definitely not lol. Dem thing deh a luxury now. Me link the box food shop in a me scheme.,Dem a scheme fi tek di man position but im nah guh mek dem do it,neutral,Definitely not lol. Those things are a luxury now. I linked the box food shop in my area.
+All now me nuh reach inna the portmore cinema. Need fi make the trod one of these days.,Mi guh portmore cinema every week from di year start. Mi feel like mi need fi stop guh.,contradiction,Still haven't reached the Portmore cinema. I need to make the trip one of these days.
+Zack's Smoke Shack a gwaan wid a bag a tings,Zack's Smoke Shack nah gwaan wid nutn,contradiction,Zack's Smoke Shack is going on with a lot of things.
+Ukrainian ambassador a push badness inna tha speech yah nuh rawtid.,Ukranian ambassador speech did well tame,contradiction,"The Ukrainian ambassador is pushing badness in that speech, you know, wow."
+I have a test tomorrow and before mi go study mia play Mario Kart🤦🏾‍♀️,Mi naav no more test or exam but mi still a look ova di lecture dem,contradiction,"I have a test tomorrow and before I go study, I'm playing Mario Kart 🤦🏾‍♀️."
+Bredda dem ah charge ppl $150 and $200 pon taxi from town to trees.,Roun $150 or $200 fi tek a taxi from town to trees,entailment,The guys are charging people $150 and $200 for a taxi from town to Trees.
+Mi neva call no name still..,Mi neva mention nuhbody specific,entailment,I didn't call any names still...
+Unu a like the tweet but unu nah answer mi,Unu a answer mi but unu nah like di tweet,contradiction,You all like the tweet but you're not answering me.
+Mi jus wah shave off mi eyebrow dem,Mi need fi shave before mi go di people dem event,neutral,I just want to shave off my eyebrows.
+Garbage collector dem fi get nuff money!,Teacha deserve fi get dem pay!,neutral,Garbage collectors should get a lot of money!
+Nuff power inna prayer and psalms,Mi know seh mi granny always a pray fi me,neutral,There's a lot of power in prayer and psalms.
+About 5 fry dumplings deh inna the bag ennuh,Food deh inna di bag,entailment,"About 5 fry dumplings are in the bag, you know."
+In deh crowded.,In deh empty,contradiction,It's crowded in there.
+Di world wah wash off wid coconut water. Jesus.,Yuh heart wah wash off wid likkle coconut wata.,neutral,The world wants to wash off with coconut water. Jesus.
+2 movies me watch since I got home. Mi have the people dem work fi do innuh.,From mi come home mi a do di people dem work,contradiction,I've watched 2 movies since I got home. I have work to do for the people.
+Yu know seh me still siddung inna de car? Nuh waan go een.,Me siddung a scroll pan mi phone like mi nuh av work a mawnin,neutral,You know I'm still sitting in the car? Don't want to go in.
+"Better mi neva drink the tea, somehow I feel worse",From mi drink di tea mi feel betta,contradiction,Better I didn't drink the tea; somehow I feel worse.
+First time mi a reach home before 6 inna months,Every day since di year start mi reach a mi yaad before 6,contradiction,First time I'm reaching home before 6 in months.
+Jeff just a jump yah so and deh so,Jeff just stan up one place,contradiction,Jeff is just jumping here and there.
+Mi really nah feel fi come work Friday enugh,Mi excited fi come a work Friday,contradiction,I really don't feel like coming to work on Friday enough.
+Me nah go sleep early fi work again. I miss all the good stuff,Waking up early for work nah guh mek mi sleep weh an miss all weh a gwaan,entailment,I'm not going to sleep early for work again. I miss all the good stuff.
+know seh i bake for donjae over a week ago and all now him nuh collect it so that get nyam tonight,Everytime mi bake fi donjae him always quick fi come collect di food,contradiction,"You know I baked for Donjae over a week ago and still he hasn't collected it, so that's getting eaten tonight."
+"Fi billiasness, drink a likkle search-mi-heart tea","Fi sore troat, chew garlic wid some honey an lime",neutral,"For business, drink a little search-my-heart tea."
+Jason mi deh cook and me nah mek u mek di likkle bickle bun up!,Jason neva eat cook food from da restaurant deh inna im life,neutral,"Jason, I'm cooking and I'm not letting you burn the little bun up!"
+JUST TOUCH DOWN INNA DI AIRPORT!!! MMMHMM,Just land inna di airport!,entailment,JUST TOUCHED DOWN AT THE AIRPORT!!! MMMHMM.
+Mi fraid fi go over deh,Mi fraid fi eat dat,neutral,I'm afraid to go over there.
+Something inna di fry chicken a mek people guh crazy,Di people dem mad ova di fry chicken,entailment,Something in the fried chicken is making people go crazy.
+"Di Chile a stare pan me, fraid fi seh sumn",Di pickney not even a look pan me,contradiction,"The Chile is staring at me, afraid to say something."
+Dem man ya no work pass sunset lol.,Long time now mi nuh get fi guh work,neutral,Those guys don't work past sunset lol.
+It’s been dry as a crisp now it wah come rain when man inna all white,Nuh rain neva did a fall but now it wah wet mi up when mi a wear full white,entailment,It’s been dry as a crisp; now it's going to rain when I'm in all white.
+No paint shop nuh open 😩,All a di paint shop dem open,contradiction,No paint shop is open 😩.
+Mi haffi go wake up early den,Mi need fi get up early den,entailment,I have to wake up early then.
+Yuh know seh mi seriously ago invest inna one bicycle,Mi plan fi buy one bicycle,entailment,You know I'm seriously going to invest in a bicycle.
+One ting bout Jamaicans...we nuh frighten fi celebrity,Jamaican people love fi guh foreign and come back a floss like dem a celebrity,neutral,One thing about Jamaicans...we're not afraid of celebrities.
+"One thing bout All That Matters, you will guh fi one ting and lef wid 30",All weh a gwaan mi plan fi buy nuff tings when mi guh a foreign,neutral,"One thing about All That Matters, you will go for one thing and leave with 30."
+Mi nuh bada waa get married... ever,Mi cyaa wait fi get married,contradiction,I'm not bothered about getting married...ever.
+price fi Honda stream gone up yah now,Honda stream dem a get more expensive,entailment,The price for Honda Stream has gone up now.
+Dem ah tek libaty wid we...,Dem ah tek wi fi poppyshow...,entailment,They're taking liberties with us...
+"Tbh not being ungrateful but me tired of food now. Me want go blue mountain, rafting and them things deh  tired of  eating I want experiences","Me wah fi experience places like Blue Mountain and do rafting, mi nuh really wah guh nuh more restaurant",entailment,"To be honest, I'm not being ungrateful, but I'm tired of food now. I want to go to Blue Mountain, rafting, and those things; I'm tired of eating, I want experiences."
+mi a go get a helper back,mi neva hire a helper inna mi life yet,contradiction,I'm going to get a helper back.
+Me waah some taste good food weh nah go bruck me but me nuh waah nuh rice,Mi love fi go Ribbiz cause dem pasta sell off!,neutral,"I want some tasty food that won't break me, but I don't want any rice."
+Mi wah tek part inna your wedding,Mi wah yuh mek mi do sumn inna your wedding,entailment,I want to take part in your wedding.
+Ready fi guh back a skl,Mi cyaa wait fi guh back a school,entailment,Ready to go back to school.
+Mi hate group work dawg,Mi nuh like do group work,entailment,"I hate group work, man."
+Long time mi nuh tek mi medicine...,Mi tek two panadol dis mornin,contradiction,It's been a long time since I took my medicine...
+"Nah lie, me fully nervous fi da exam ya",Da exam ya nah stress mi. Mi know mi a guh pass,contradiction,"Not lying, I'm fully nervous for this exam."
+Me waan sleep yah now,Me ready fi gah mi bed,entailment,I want to sleep here now.
+Chelsea never cease fi disappoint me,Chelsea neva disappoint mi yet,contradiction,Chelsea never ceases to disappoint me.
+Mi need money fi the things Wey mi a plan do this holiday 🙁,Mi plan fi do tings weh cost money this holiday,entailment,I need money for the things I'm planning to do this holiday 🙁.
+We cyaa watch weh everybody else a do. Just haffi do our thing and make them see it.,Haffi guh see da movie deh wen dem release it. Mi hear seh it sell off!,neutral,We can't watch what everybody else is doing. Just have to do our thing and let them see it.
+Last year dem time ya me just a check inna I love soca,Mi guh I love soca last year,entailment,"Last year around this time, I was just checking in on I love soca."
+This is the worst game me ever watch this season 😂..better me go play some ball inna di morning ya,Dis a di best game mi watch from di season start,contradiction,This is the worst game I've ever watched this season 😂..better I go play some ball in the morning.
+A bare apple device inna Starbucks,Nuhbody inna Starbucks nah use nuh Apple device,contradiction,There are a lot of Apple devices in Starbucks.
+Match nuh done yet,Match done from long time,contradiction,The match isn't over yet.
+Food deh a d house,Nutn fi eat nuh deh a di house,contradiction,Food is at the house.
+All ah me fren dem ah lose weight and me ah ketch it,Mi fren dem normally guh gym wid mi inna di evening dem,neutral,All my friends are losing weight and I'm catching it.
+Down town nah see me again fi a while. Nope,Mi a guh avoid down town fi now,entailment,Downtown won't see me again for a while. Nope.
+Stop listen zip inna the morning bruv…bare rubbish dem yute ya chat…,Nah guh listen nuh more zip a mornin time cause a bere foolishness dem yute ya chat,entailment,"Stop listening to Zip in the morning, bruv…a lot of rubbish those youths are chatting…"
+Mi excited bout ball game lata,Mi nuh really a look fawud to di ball game lata,contradiction,I'm excited about the ball game later.
+We need fi send Kirk Wright over deh fi get we some on the scene reporting,Kirk Wright do most a di reporting fi di accident dung a Moore Town,neutral,We need to send Kirk Wright over there to get us some on-the-scene reporting.
+A time fi me a get Clarks as present now,Full time now smaddy fi buy mi some Clarks as gift,entailment,It's time for me to get Clarks as a present now.
+Ready fi wash and rain start fall,Bout fi wash yah now and rain come down,entailment,Ready to wash and the rain starts to fall.
+Me tired fi talk,Me tired fi tek bus,neutral,I'm tired of talking.
+Mi nuh like beg people favors. Not even my parents. Either me dweet miself or mah guh pay someone but beg? Nope,"Mi always a beg people favors, especially mi family. If mi nuh affi duh it miself mi a guh ask yuh fi help me",contradiction,"I don't like begging people for favors. Not even my parents. Either I do it myself or I go pay someone, but beg? Nope."
+Why squaddie even bother wid that mask?  It ah hold up him chin but nah offer no protection whatsoever,Squaddie mask well secure pon him face. Him nah ramp bout di protection,contradiction,Why does the squaddie even bother with that mask? It holds up his chin but offers no protection whatsoever.
+People dem can hardly sleep wid everything weh a gwan 😩,People a struggle fi rest wid all weh a guh down,entailment,People can hardly sleep with everything that's going on 😩.
+saw a lot of people I knew yesterday but unnu walk too fast and me nah run dung nuhbody fi seh hi. Sigma is in February.,Neva really si nuhbody wah mi know yesterday,contradiction,"I saw a lot of people I knew yesterday, but you all walked too fast and I didn't run down anyone to say hi. Sigma is in February."
+Mi waa cook,Mi waa sleep,neutral,I want to cook.
+ mek we guh get some money,mek we guh len ar some money,neutral,Let's go get some money.
+Mi never born inna riches but my children will 👌🏼🙏🏼,Mi born inna riches suh my children a guh rich too,contradiction,"I wasn't born into riches, but my children will be 👌🏼🙏🏼."
+4 panadol mi tek from morning,mi did tek some medicine dis morning,entailment,I took 4 Panadol since morning.
+Chicken foot fi inna soup!,Chicken foot fi lef outta soup!,contradiction,Chicken foot should be in the soup!
+Can’t wake early fi go work fi save my life,Mi struggle fi wake up early fi guh work a mornin time,entailment,Can't wake up early to go to work to save my life.
+One thing wid me me ago wake up inna the middle a the morning,One ting wid me me nah guh wake up till mi alarm ring a 12:30,contradiction,"One thing about me, I'm going to wake up in the middle of the morning."
+"I’m not gonna come on here and act like I know how to shop for men because I DON’T. 
+
+Unu hard fi shop fa and every time we ask wah unu like, unu list the same 5 things. 
+
+If unu doh know, how me must know??",Man nuh easy fi shop fa cause dem nuh av nuh likkle variety wid di tings wah dem like. How mi suppose to know wah fi buy if you nuh know weh you waa?,entailment,"I’m not gonna come on here and act like I know how to shop for men because I DON’T. 
+
+You all are hard to shop for and every time we ask what you like, you list the same 5 things. 
+
+If you don’t know, how am I supposed to know??"
+Carry me wid you,Bring me wid you,entailment,Take me with you
+is like this government a tease we wid the curfew,The government nah gwaan wid nutn fi di economy,neutral,It's like this government is teasing us with the curfew
+Mi feel offended 😭,Mi feel fi some guinep,neutral,I feel offended 😭
+Full time me go shopping fi new clothes,Mi need fi guh get some new curtain,neutral,It's about time I go shopping for new clothes
+Mi want a big box food today.,Mi nuh feel fi eat nuh sushi today,neutral,I want a big box of food today.
+Mi yeye dem a go glue on pon dat deh cricket field,Mi a guh watch a cricket match,entailment,My eyes are going to glue on that cricket field
+Mi wi drop dung mek dem send mi home enuh,Mi nuh care ow bad tings a gwaan a work mi nah guh do nutn drastic fi risk di likkle job,contradiction,"I will drop down and make them send me home, you know"
+Mi need fi come go home guh watch this match,Dem play di match yesterday but di home team neva win,neutral,I need to go home to watch this match
+Mi love dat deh passage deh.,Mi hate dah passage deh.,contradiction,I love that passage.
+Mi feel like Drake and Davido a go di deh,Mi feel seh Drake and Davido a guh come,entailment,I feel like Drake and Davido are going to be there
+Me a di youngest inna the group everybody a at least thirty why dem naah mek me prospa 😩,Mi nuh older dan nuhbody else weh inna di group and dem naah mek me prospa,entailment,"I'm the youngest in the group, everyone is at least thirty, why aren't they letting me prosper? 😩"
+"When the man drop foreva, mi did see a growth from the Artist weh nuff artist inna Dancehall neva show before.",The dancehall singer dem nah really put out nuh dancin tune like wah dem used to do inna Bogle days,neutral,"When the man dropped forever, I did see a growth from the Artist that many artists in Dancehall never showed before."
+One time me used to kill up mi self fi buy shoes and clothes fi Christmas and now mi juss deh yah,Mi use to always a shop fi clothes when Christmas come but mi nuh really too do dat nowadays,entailment,One time I used to kill myself to buy shoes and clothes for Christmas and now I'm just here
+Reddit seh mi answer is against guidelines and mi might get ban lmao,Reddit might ban mi cause dem seh weh mi write nuh mesh wid dem guidelines,entailment,"Reddit says my answer is against guidelines and I might get banned, lmao"
+Me seh me tiyad fi a learn,Me love fi learn,contradiction,I say I'm tired of learning
+Cyaa tell wen last mi see a road ball game inna mi scheme,Long time dem nuh play ball game inna mi scheme ,entailment,Can't tell when was the last time I saw a road ball game in my neighborhood
+Mi a labourite,Mi support JLP,entailment,I am a Labourite
+Buff bay soon and mi still deh a Papine. Engine affi go get step out,Mi reach Buff Bay already but mi neva bodda drive chru Papine,contradiction,Buff Bay soon and I'm still here in Papine. Engine has to get stepped out
+"Mi nuh know if a how UTech teach it or what, but mi hate SQL and can’t use it to save my life",Nuhbady nuh bad wid SQL like me. Mi love use it,contradiction,"I don't know if it's how UTech teaches it or what, but I hate SQL and can’t use it to save my life"
+Lef mi mother a di yaad a cook up some oxtail..... come back from ball game to bare plate inna sink and empty pot. Wah cuda cause this,Mi mother did a cook some oxtail before mi guh ball game but she neva lef none fi me,entailment,Left my mother at home to cook some oxtail..... came back from the ball game to a sink full of plates and an empty pot. What could have caused this?
+Feel fi mac n cheese,Feel fi a cheese cake,neutral,Feel like mac and cheese
+Guh outside fi hang out two shirts and the mosquito dem nearly nyam mi up,Mi guh out fi put mi clothes dem pon di line and a bere mosquito start bite me,entailment,Went outside to hang out two shirts and the mosquitoes nearly ate me up
+"Mi nuh do too much talking. Me say weh me affi say one time and a it dat.
+🥂","From mi seh wah mi seh, mi done talk!",entailment,"I don't do too much talking. I say what I have to say one time and that's it.
+🥂"
+Tears nearly come to mi eyes when mi turn up Elizabeth Avenue and see that they resurfaced the road. Mi can finally start driving back there.,Mi glad seh dem fix Elizabeth Avenue. Mi can start use di road again,entailment,Tears nearly came to my eyes when I turned up Elizabeth Avenue and saw that they resurfaced the road. I can finally start driving back there.
+Nuff Toyota rush Deh yah inno.,Mi deh yah and mi nuh really si nuh Toyota rush.,contradiction,"A lot of Toyotas are rushing here, you know."
+"Bredren a tell me bout the company weh him work seh them put rat poison inna the vents to kill some rats, apparently nobody never know how it a guh go when the rat them dead",Bredren seh dem poison di rat dem weh deh inna di vents weh him work wid rat poison but dem nuh know wah fi do bout di dead rat dem,entailment,"A friend told me about the company he works for that put rat poison in the vents to kill some rats, apparently nobody knew how it would go when the rats died"
+"Mi actually neva knw smn did appen, oops",Mi actually did know seh sumn appen,contradiction,"I actually didn't know something happened, oops"
+Fight fi weh u want never give up ute🌀,Di yute dem a fight up a Halfway Tree,neutral,"Fight for what you want, never give up, youth 🌀"
+Mi have more wata inna my backyard than Mona dam.,Mi backyard flood out.,entailment,I have more water in my backyard than Mona dam.
+Once a year mi guh church... New years eve,Every week church see mi,contradiction,Once a year I go to church... New Year's Eve
+De poor man neva last long. Him hair all start pick out,De man bruk suh till him cyaa afford fi trim im hair,neutral,The poor man didn't last long. His hair all started to pick out
+I swear bruv.. mi nuh see sun since weekend,Di place bleak bad since last weekend,entailment,"I swear, bro.. I haven't seen the sun since the weekend"
+Feel fi some cornmeal porridge,Long time mi nuh cook cornmeal porridge,neutral,Feel like some cornmeal porridge
+Mi nervous,Mi feel calm,contradiction,I'm nervous
+Mi seh.   Mi deh yah a struggle to go back to sleep,As mi close mi eye dem mi drop a sleep,contradiction,I say. I'm here struggling to go back to sleep
+Mi feel sick 🤢,Mi nuh feel too too well,entailment,I feel sick 🤢
+Mi stop drink!!!😩,Mi nuh drink nuh more!!,entailment,I stopped drinking!!!😩
+Watch nice oxtail weh nah cook in a mi house 🤣 mi rada by 8lb a turkey neck wid dah money yah... #disnuhsafe #moveframdeh,Wen me cook di turkey neck it taste betta it dan wen mi sista mek it cause mi use likkle Maggie seasoning,neutral,Look at nice oxtail that isn't cooked in my house 🤣 I would rather buy an 8lb turkey neck with that money... #thisisunsafe #movefromthere
+Mi miss unu yuh si lol,Mi long fi see unu,entailment,"I miss you all, you see lol"
+you affi careful a people weh wah inna everybody friend group,mi neva know seh dem deh inna di same fren group,neutral,You have to be careful of people who want to be in everybody's friend group
+Rain fall and mi bruk mi neck go tek up my clothes. As mi come inside rain stop and sun come out,Rain did a fall but mi leave di clothes pon di line and see it deh di sun end up come out few minutes lata,contradiction,"It rained and I broke my neck going to pick up my clothes. As I came inside, the rain stopped and the sun came out"
+need a country drive out wid my fren dem,most a mi fren dem live a town,neutral,Need a country drive out with my friends
+From wah day me nuh stop screenshot (press gas and brake at the same time) me car when me a park,From wah day deh me a struggle fi park cause dem parking lot always full,neutral,Since that day I haven't stopped screenshotting (pressing gas and brake at the same time) my car when I'm parking
+"Flow just da same, can't believe mi a say dis, but WhatsApp calling a get better dan digicel n flow to how dem get horrible",Whatsapp calling look like it a get better dan Flow and Digicel di way how two a dem terrible,entailment,"Flow is just the same, can't believe I'm saying this, but WhatsApp calling is getting better than Digicel and Flow to how they are getting horrible"
+Mi hungry and mi cya bother get up go look bout anything,Mi feel fi some coconut wata fi drink,neutral,I'm hungry and I can't be bothered to get up to look for anything
+Me nah eat ntn weh nuh cook inna canteen,Mi eat canteen food,entailment,I'm not eating anything that isn't cooked in the canteen
+Have some packages fi collect a ShipMe and mi nuh hve any money.,Mi get pay last week so mi have nuff money fi spen,contradiction,I have some packages to collect at ShipMe and I don't have any money.
+Feel fi sum pasta tonight! #ribbiz,Mi wah eat pasta tonight,entailment,Feel like some pasta tonight! #ribbiz
+Cyaa bodda wid dem headache ya enuh,Tiyad fi me head a hurt me now,entailment,"Can't be bothered with these headaches, you know"
+Mi devn use Facebook like dat.,Mi eva a use Facebook,contradiction,I don't use Facebook like that.
+"Mi seh, people presumptuous bad enno!!",Mi nuh feel seh people need fi stay suh,neutral,"I say, people are really presumptuous!!"
+"Wax off a whole tilapia, plate of rice and peas, pasta salad, and some veg.... you know seh all mi wah duh yah now ah sleep 😩",Mi eat off a big plate a food so right now a piece a tiyadness a lick mi fi six,entailment,"Wax off a whole tilapia, plate of rice and peas, pasta salad, and some vegetables.... you know all I want to do right now is sleep 😩"
+My mother mek sorrel and put inna the fridge but she nuh out no sugar or rum inna it yet. Mi go pour out and taste it 😭😭😭😭😭😭😭,My mother mek sorrel and put it inna the fridge but she put too much sugar in deh. Mi jus drink some an waa bawl di way how it taste bad,contradiction,My mother made sorrel and put it in the fridge but she hasn't put any sugar or rum in it yet. I went to pour out and taste it 😭😭😭😭😭😭😭
+U have some really hateful ppl inna d workplace,Di heat dung a mi workplace bad,neutral,You have some really hateful people in the workplace
+Mi nuh care honestly,It nuh really matta to mi,entailment,I don't care honestly
+Mi know at least 5 ppl weh birthday a today,Mi nuh know nuhbody who born today,contradiction,I know at least 5 people whose birthday is today
+If somebody Nuh inna yuh them just nuh inna yuh. Doe try force them to feel otherwise.,If smaddy nuh like yuh dem nuh like yuh. Yuh nah guh change dem mind,entailment,"If somebody is not into you, they are just not into you. Don't try to force them to feel otherwise."
+Da fan deh really angry,Da fan deh look like im a see red,entailment,That fan is really angry
+Teachers in college really feel like seh a some pickney dem a deal wid enuh,Some a di college teacher dem bring dem pickney wid dem come a work,neutral,"Teachers in college really feel like they are dealing with some kids, you know"
+Man dem a force fi make brown the highlight of this game eh.,Brown neva play inna di game dem weh dem keep up a stadium before,neutral,"The men are forcing to make brown the highlight of this game, huh."
+Croatia unnu gwaan too good inna group stage fi come knockouts and fumble.,Croatia fumble di ting inna di group stage,contradiction,"Croatia, you all are doing too good in the group stage to come to knockouts and fumble."
+Mi just hold mi card and show dem di symbol,Mi plan fi apply fi get a new credit card,neutral,I just hold my card and show them the symbol
+Cyaa wait fi grow out my hair likkle more,Cyaa wait fi braid mi hair,neutral,Can't wait to grow out my hair a little more
+Mi nuh have cable a bush me live inna so try record and send me it,Mi nuh live a town suh mi nuh av nuh cable suh jus record it and send me,entailment,"I don't have cable, I live in the bush so try to record and send it to me"
+"Dem wine like wire, spin like gig",Everybady siddung one place,contradiction,"They wine like wire, spin like gig"
+"Cyah par wid nobody weh shame fi walk wid mi a road, sorry.",Mi a walk guh school from mi a guh St. Jago Prep,neutral,"Can't partner with anybody who is ashamed to walk with me on the road, sorry."
+This makes me soo angry. The amount of ppl dat must have auditioned.. THE LEAST dem coulda do was pic sumbody wid locs.,The audition dem end up last fi bout six hour.,neutral,This makes me so angry. The amount of people that must have auditioned.. THE LEAST they could have done was pick somebody with locs.
+Next time you see the Salvation Army pan juss mek sure you remember that moment and drop extra inna it.,Salvation Army dem always deh outside a Sovereign suh mi drop sumn inna dem pan now an again,neutral,"Next time you see the Salvation Army pan, just make sure you remember that moment and drop extra in it."
+"Know da song deh, word fi word",Mi neva hear a song deh inna mi life,contradiction,"I know that song, word for word"
+Me ready fi a relationship me serious this time .🙄,Me still nuh feel ready fi a relationship. Affi focus pon miself right yah now,contradiction,"I'm ready for a relationship, I'm serious this time. 🙄"
+Big man yah star. Nuh bother wid that.,Di man ova deh suh use to sell Gleaner and Star,neutral,"Big man, you're a star. Don't bother with that."
+Inna traffic suh til me wah sleep,Inna di traffic suh till me tiyad,entailment,In traffic so much that I want to sleep
+Mi have work later,Mi completely free later,contradiction,I have work later
+Mi annoyed bad bad. Tired of this.,Mi waa sleep bad bad,neutral,I'm really annoyed. Tired of this.
+She ah mi bess bess fren,She an me nuh really close,contradiction,She is my best friend
+Mi doh have it!,Mi have it!,contradiction,I don't have it!
+Insecurities ah reach mi.,Mi nuh feel too too confident,entailment,Insecurities are reaching me.
+Mi kinda want overtime inna dah game yah #GameDay #RamsvsBengals,Mi waa dem avoid overtime fi dah game yah,contradiction,"I kind of want overtime in this game, #GameDay #RamsvsBengals"
+"One thing wid me, me ago look nice when me put myself together.","One thing wid me, nuh matta how me put myself together mi still a guh look a way",contradiction,"One thing about me, I'm going to look nice when I put myself together."
+The pizza delivery guy call me and seh mek sure mi deh outta door when him reach 🥴,Di man come a mi gate while mi outta door,neutral,The pizza delivery guy called me and said to make sure I'm out the door when he arrives 🥴
+Ano everybody fi know weh yuh live.,Yuh fi keep weh yuh live private,entailment,Not everybody needs to know where you live.
+Tired fi spend money,Glad fi spend up mi money,contradiction,Tired of spending money
+Mi delete di tweet; done wid politics fi di night. Gone watch Brooklyn nine nine,Mi nah guh delete di tweet. Mi seh wah mi seh.,contradiction,I deleted the tweet; done with politics for the night. Going to watch Brooklyn Nine-Nine
+Sun rise and me jus have the intention fi go sleep,Mi drop a sleep from yesterday inna di evening,contradiction,The sun rises and I just have the intention to go to sleep
+Mi stress out,Mi stress bad,entailment,I'm stressed out
+"Him sing one tune two times, when teacha run out wid a million songs!","Him nuh repeat none a him song dem, not one a dem play two time",contradiction,"He sang one tune two times, when the teacher ran out with a million songs!"
+None-stop motion an commotio ova Dina yaad mi chile!,Dina guh dung a Mandeville guh visit ar mada laas week,neutral,"Non-stop motion and commotion over Dina's yard, my child!"
+Me a dead fi hungry,Mi a starve,entailment,I'm dying of hunger
+Man dem a make moonshine inna Jamaica 🤣,Man dem nah make nuh moonshine inna Jamaica,contradiction,The men are making moonshine in Jamaica 🤣
+Mi feel like me a go japasleep inna the pageant,Mi well alert fi da pagaent ere,contradiction,I feel like I'm going to fall asleep in the pageant
+Mi a vegan.,Mi love fi nyam mutton wen Christmas come,contradiction,I'm a vegan.
+Me download fifa lastnight and nuh have nuh vibes fi go work this morning 😭,Me cousin dem love fi play fifa wid me wen mi visit dem,neutral,I downloaded FIFA last night and don't have any vibes to go to work this morning 😭
+Stop make people diss unnuh and come back and seh sorry. Dem a go dweet again,If somebody diss unnuh unnuh fi diss dem back!,neutral,Stop letting people diss you and come back and say sorry. They're going to do it again
+All now mi nuh study two lines good,Mi barely start study,entailment,Even now I haven't studied two lines well
+Mi deh airport already a wait,Mi nuh reach di airport yet,contradiction,I'm already at the airport waiting
+Siddung inna de car inna mi driveway and cyaa come out,Mi fren tell me seh she lose har work,neutral,Sitting in the car in my driveway and can't come out
+Me seh! Up to now this Chris Rock situation still a bun me !,All now mi still upset bout di Chris Rock situation,entailment,I say! Up to now this Chris Rock situation is still burning me!
+Mi head a hot me just thinking about the gas prices already right across and JPS will be snickering....,Dem raise di gas price dem bou 6 time ova di past year. Dem nuh tired fi a increase di price now? Mi pocket cyaa deal widdit.,neutral,"My head is hot, I'm just thinking about the gas prices already right across and JPS will be snickering...."
+mi excited bad for tonight,mi a look fawud to tonight,entailment,I'm really excited for tonight
+We haffi try mek sense inna di nonsense. Forward,Bere nonsense dem did a chat afta di ball game done,neutral,We have to try to make sense in the nonsense. Forward
+Mi a tell you sleep a kill mi but mi a go unruly,Mi too tiyad fi go unruly,contradiction,I'm telling you sleep is killing me but I'm going to be unruly
+Waking up pon mi hillside inna Mobay wid likkle cool breeze a beat me. Nothing nuh beat dat,Mi nuh too like fi feel di cool breeze inna di hillside up inna Mobay,contradiction,Waking up on my hillside in Montego Bay with a little cool breeze hitting me. Nothing beats that
+Unruly fest never need the international artists as much as you all think. Cause most a unuh only frighten fi foreigner,Unruly fest did really need di international artist dem. Dem did a gwaan wid bere tings,contradiction,Unruly fest never needed the international artists as much as you all think. Because most of you are only scared of foreigners
+"So UWI really a try mess with me inna exam time!
+
+Mi kindly tell dem that they will see me bright and early Tuesday morning after my exams unless dem waan give me back my tuition cuz i could do well with half a mill for the holiday.",UWI still nuh done mark di exam dem weh wi do from way back inna December. Mi feel like seh mi a waste mi tuition due to how dem love ramp wid we. Mi tiyad a dem!,neutral,"So UWI is really trying to mess with me during exam time!
+
+I kindly told them that they will see me bright and early Tuesday morning after my exams unless they want to give me back my tuition because I could do well with half a million for the holiday."
+Mi just feel nice n comfortable inna me skin this morning sis.. like me soul and body bathe good.. 🤣🤣🤣,Mi feel fi eat some soul food wen mi guh dung a mi auntie,neutral,I just feel nice and comfortable in my skin this morning sis.. like my soul and body bathed well.. 🤣🤣🤣
+"Him no see seh mi can’t buy gas at $210, how mi a go afford 400",Chicken patty cost $210 down a Juicy Beef a UWI. By time mi graduate dem goodly raise di price to $400,neutral,"He doesn't see that I can't buy gas at $210, how am I going to afford $400"
+Man dem tun everything inna joke 🤣,Man dem tek everything serious,contradiction,The guys turn everything into a joke 🤣
+Glad him fly the gate. Still a go wear my mask tho cause that weh him just seh nay mek sense but… vibes.,Happy seh tings open up but mi still a guh wear mi mask cause weh him seh neva really mek sense,entailment,Glad he flew the gate. Still going to wear my mask though because what he just said doesn't make sense but… vibes.
+Mi outfit did cute tonight 😬😬😬,Mi outfit did sell af tonight,entailment,My outfit was cute tonight 😬😬😬
+Mi naav nuh energy fi argue wid nobody bout anything !,Mi too tiyad fi argue wid people bout anything,entailment,I don't have the energy to argue with anyone about anything!
+Next Black Friday mi a treat myself to a switch 😭,Mi a guh buy myself one switch when Black Friday come again,entailment,Next Black Friday I'm going to treat myself to a switch 😭
+"As you get a likkle work and start make a little money, your parents start tell you how fi spend YOUR money",If yuh a work an mek money yuh haffi share some a it wid you parents,neutral,"As soon as you get a little work and start making a little money, your parents start telling you how to spend YOUR money"
+Mi seet clear seh the police dem give up.,All wah gwaan mi feel like di police dem still a try,contradiction,I see clearly that the police have given up.
+Mi just nuh inna the excitement mood and sumn,Mi tiyad fi hear dah song deh,neutral,I'm just not in the mood for excitement and stuff
+Rashford deh pon a piece a form deh,Rashford a play since him inna third form,neutral,Rashford is in good form
+My thoughts exactly! Dem nuh business wid we enuh,Dem nah guh shut down di business,neutral,My thoughts exactly! They don't care about us
+Deh space Deh too small fi the Genna car park,Di Genna cyaa park deh suh,entailment,That space is too small for the Genna car park
+Christmas gone and me just bout fi sample the likkle cake,Bere cake mi eat since Christmas so mi nah guh eat nuh more,contradiction,Christmas is gone and I'm just about to sample the little cake
+October basically finished. Not one Christmas breeze mi nuh feel yet. I’m concerned.,From October start Christmas breeze a blow,contradiction,October is basically finished. Not one Christmas breeze I haven't felt yet. I'm concerned.
+Mi cya play pool inna real life and mi cya play it pon mi phone. A wah this,Mi always a beat people wen mi play pool. ,contradiction,I can play pool in real life and I can play it on my phone. What is this
+U know seh me start bawl a while ago. Like living eye wata,Me did a cry a while ago. Mi eye dem full up a wata,entailment,You know I started crying a little while ago. Like living eye water
+Da beard deh old yo up man… try the other beard wid the nose ring,Yuh need fi stop wear da ring deh cause it a get rusty,neutral,That beard is old yo up man… try the other beard with the nose ring
+"Mi waa know why mi dream say mi a run from Reading to Bogue. Fast fast too enuh, like lightning deh inna mi foot.",A big piece a lightning lick one grapefruit tree dung a Bogue,neutral,"I want to know why I dreamt that I was running from Reading to Bogue. Fast too, like lightning in my foot."
+See it clear seh this side only have strength fi Leeds,This side look like dem have strength fi all a di team dem,contradiction,I see clearly that this side only has strength for Leeds
+"One God almighty fridge, 1 tv and 4 bulp inna mi mada house",Mi mada naav nuh tv inna har house,contradiction,"One God almighty fridge, 1 TV and 4 bulbs in my mother's house"
+Like mi need fi visit a physiotherapist a morning,Mi feel like me need fi guh one physiotherapist when morning come,entailment,Like I need to visit a physiotherapist this morning
+Rainbow did pretty over mi hall since evening.,Mi si one rainbow when mi did guh a country,neutral,The rainbow was pretty over my hall since evening.
+Only during World Cup mi tweet suh much... watch when it done mi gone back inna hiding,Mi nuh really tweet too often if World Cup nah gwaan,entailment,Only during the World Cup do I tweet so much... watch when it's over I'm going back into hiding
+Mi remember how the place did tense inna May 2010 an mi just a imagine that x 1000 wid wah gwaan Ukraine. Jah guide an protect 🙏😔,Mi nuh guh work in person since May 2010 suh mi used to di work from home ting,neutral,I remember how tense it was in May 2010 and I'm just imagining that times 1000 with what's going on in Ukraine. Jah guide and protect 🙏😔
+"Mi a follow mi friend purchase her house a cherry gardens Thursday and follow her go meet the Minister of Education Monday, all this friendship build from renting cars lol homegirl charter jet just fi come yah Mi just admire her.",Mi an mi auntie did plan fi guh visit Cherry Gardens Thursday but she did have one meeting wid one minister di same evenin suh we neva bodda guh,neutral,"I'm following my friend to purchase her house in Cherry Gardens on Thursday and following her to meet the Minister of Education on Monday, all this friendship built from renting cars lol homegirl chartered a jet just to come here. I just admire her."
+A di best clash dis inna magnum history mi naa lie ,Dis a di worst clash mi eva see inna Magnum history,contradiction,This is the best clash in Magnum history I'm not lying
+Smaddy tell mi sey yuh did a chat bout mi,Mi and dem did a chat ar,neutral,Somebody told me that you were chatting about me
+Holiday so mi phone deh pon DND.,Since a holiday mi put mi phone pon DND.,entailment,It's a holiday so my phone is on DND.
+If yuh nuh season di meat before it guh inna di pot it is not Jamaican food,If di meat nuh season wid pimento it nah guh taste good,neutral,If you don't season the meat before it goes in the pot it is not Jamaican food
+Feel like me wudda spend few days inna negril,Mi feel fi guh spend couple days inna negril,entailment,Feels like I would spend a few days in Negril
+Fry dumpling would a nice inna the morning ya,Me feel fi some fry dumpling inna di morning ya,entailment,Fried dumplings would be nice in the morning
+People change so ya fi just live wid it cause yuh caah change a person if they don’t wanna change themselves. 😴,Me nuh know wen dem change di requirement dem but me nuh tink mi a guh apply again,neutral,People change so you just have to live with it because you can't change a person if they don't want to change themselves. 😴
+"Me have the potential fi look good enu , a just bruk me bruk",Even if mi did av money mi know seh mi still woulda struggle fi look good,contradiction,"I have the potential to look good you know, I just broke my broke"
+A lone police deh pan d road,Nuff traffic deh pan di road,neutral,There's only one police on the road
+"Mi ""wallet"" full to de brim and mi belly empty",Mi av money but mi hungry,entailment,"My ""wallet"" is full to the brim and my belly is empty"
+"$650 plus tax fi a likkle can a pineapple slice, with like 5 inna it. Mussi mad. The ham go haffi do without it",Mi uncle normally mek di ham wid pineapple a Christmas time fi gi it likkle flavor,neutral,"$650 plus tax for a little can of pineapple slices, with like 5 in it. Must be mad. The ham will have to do without it"
+Raisin a get soak in a red label wine fi make cake,Mi granny nuh normally mek har cake dem wid raisin,neutral,Raisins are soaking in red label wine to make cake
+"Craving pizza or pasta, like mi nuh have box food inna the kitchen.",Mi woulda neva eat pasta nuh matta how hungry mi feel,contradiction,"Craving pizza or pasta, like I don't have box food in the kitchen."
+me nuh understand how Jamaican dancers wear so much clothes inna these hot times. man inna turtle neck man inna trench coat & man inna leather jacket... yow I’m so confused,Jamaican dancers always a wear a bag a clothes like trench coat and dem tings deh. Me nuh get it cause di way how di temperature high dem mus hot,entailment,"I don't understand how Jamaican dancers wear so many clothes in these hot times. Man in a turtleneck, man in a trench coat & man in a leather jacket... yow I'm so confused"
+Jamaica done have whole heap a deal wid already and cah go manage a outbreak wid dem yah different strain a the virus weh a drop like how Kartel a drop him songs dem,Jamaica have a wul heap a dancehall artiste but dem nuh really a release songs weh can compete wid Kartel,neutral,Jamaica already has a whole heap of deals and can't manage an outbreak with this different strain of the virus that's dropping like how Kartel is dropping his songs
+If ano CLARKS mi nah wear it.,Mi nuh too like fi wear Clarks.,contradiction,If it's not CLARKS I'm not wearing it.
+Last night me dream seh me find 5 bills on the road. Weh dat mean?,Last night me nuh dream see nutn. Too tired fi dream from wah day deh,contradiction,Last night I dreamt that I found 5 bills on the road. What does that mean?
+So mi wash yesterday and never hang out cause a rain now sun a beat and rain just fall out a no where when me hang out! How comes what sign is this,Yesterday di sun did a shine bright suh mi did manage fi hang out di clothes dem,contradiction,So I washed yesterday and didn't hang out because of rain now the sun is beating and rain just fell out of nowhere when I hung out! How comes what sign is this
+Mi not even ago watch this Room of Requirement scene 🙄,Mi nah guh watch this Room of Requirement scene,entailment,I'm not even going to watch this Room of Requirement scene 🙄
+Mommy inna kitchen a gwaan wid bere tings,Mommy inna di kitchen a work har magic,entailment,Mommy is in the kitchen doing a lot of things
+Cya buy clothes in Jamaica haffi dealid mi ting online,Cya buy clothes online suh mi normally shop a di Jamaican store dem,contradiction,Can't buy clothes in Jamaica have to deal with my things online
+"A better mi did watch Tiger than Arsenal play today, Arsenal a kill mi vibe weekly of late",Arsenal and Tiger did play today but mi neva get fi watch Tiger match,entailment,"I should have watched Tiger instead of Arsenal play today, Arsenal is killing my vibe weekly of late"
+One ting wid Jamaicans. Unuh entitled bad!,One ting wid Jamaicans. Unuh frighten fi celebrity bad!,neutral,One thing with Jamaicans. You all are entitled bad!
+Me need fi guh inna some deep prayers,Me need fi guh inna di office Monday,neutral,I need to go into some deep prayers
+Proud fi say me nave nuh idlers inna me circle.,Me nuh like fi invite new people inna mi circle.,neutral,Proud to say I have no idlers in my circle.
+A wa kinda hunger this me wake up wid 🥴,Mi wake up an all now mi belly still full,contradiction,What kind of hunger is this I woke up with 🥴
+One a the best match me watch inna a while now,Dis a one a di worst match mi eva watch,contradiction,One of the best matches I've watched in a while now
+210 fi cheese 190 fi chicken only dem one deh me eat,Di chicken more expesnive dan di cheese,contradiction,210 for cheese 190 for chicken only those are the ones I eat
+Know from when Wells Fargo have 7k USD fi me.,Wells Fargo have 7k USD fi mi from when.,entailment,I know since when Wells Fargo has 7k USD for me.
+" And if dem tek everything and all mi have a my breathe , mi happy same way",Nuh matta weh dem waa tek from mi glad as long as mi have life,entailment,"And if they take everything and all I have is my breath, I'm happy the same way"
+"Sleep a bax mi left, right and center",Mi tiyad bad,entailment,"Sleep is boxing me left, right and center"
+"Mi nah lie still enuh. Mi know Chelsea did aguh bottle it today but, jah know, the banters and insults are too much now.",Mi coulda swear seh chelsea woulda win today. Mi neva expect dis at all.,contradiction,"I'm not lying still you know. I know Chelsea was going to bottle it today but, Jah knows, the banters and insults are too much now."
+"From mi likkle mi tell mi self seh me have a plan. Mi famous like ninja man, mi wah rich like buju banton",From mi young mi have a vision fi miself. Mi wah rich an famous like some a di Jamaican artiste dem,entailment,"Since I was little I've been telling myself that I have a plan. I'm famous like Ninja Man, I want to be rich like Buju Banton"
+Mi naa ansa u😂😭,Mi a guh ansa you,contradiction,I'm not answering you 😂😭
+Mi single now still. What a detriment,Mi nuh deh wid nuhbody right now,entailment,I'm still single now. What a detriment
+All wah gwaan mrs officer deserve a raise fi this she understood the assignment,Mrs officer nuh deserve nuh raise cause she neva know wah she a do,contradiction,All that's going on Mrs. Officer deserves a raise for this she understood the assignment
+"Mi a must maid, from mi wake mi a clean and wash! I’m tired. I need to get rich so I can actually hire someone to do these damn chores!",From mi wake up mi a lie down inna mi bed a watch tv. Cyaa tell when laas mi wash or clean sumn fi miself,contradiction,"I must be a maid, since I woke up I've been cleaning and washing! I'm tired. I need to get rich so I can actually hire someone to do these damn chores!"
+"If mi never  catch dengue b4, mi catch it last night",Mi bredda sick wid dengue,neutral,"If I never caught dengue before, I caught it last night"
+Me cant even get the chance fi bruk cause me nuh get paid,Me nuh really like fi tek chance wid certain tings,neutral,I can't even get the chance to break because I haven't been paid
+Dem new computer car come wid problem! Ready to go work and dash board a flicka! Tf!,Dem computer car yah flawless! All now mi nuh buck up pan nuh technical issue wid dem,contradiction,These new computer cars come with problems! Ready to go to work and the dashboard is flickering! What the!
+Me wah spend every cent up a Myriad Edges. I love their work so much. Ugh,Me woulda neva spend mi money a Myriad Edges. Dem quality nuh up to par,contradiction,I want to spend every cent at Myriad Edges. I love their work so much. Ugh
+Class at 11 and mi not even bathe yet,Class at 11 and mi not even iron out mi clothes yet,neutral,Class is at 11 and I haven't even bathed yet
+Mi love chaklit cake wid nuff icenin,Mi only love chaklit cake widout icenin ,contradiction,I love chocolate cake with lots of icing
+Mi nuh like wait,Mi hate fi wait,entailment,I don't like to wait
+Church starts 10.30 and mi deh yah drink tea and scroll. Just wa ketch the sermon stills,Mi nuh drink coffee before mi guh church. Sometimes mi mek some wen mi reach back afta di sermon done,neutral,Church starts at 10:30 and I'm here drinking tea and scrolling. Just want to catch the sermon still
+Mi tuna salad slap weh todeh!!!!,Mi tuna salad sell off todeh!,entailment,My tuna salad slapped today!!!!
+"Fe me fambly is not peaw-peaw, me daughta Sue dah-teach",Me daughta weh name Sue live a farrin fi bout six year now,neutral,"For my family it's not peaw-peaw, my daughter Sue is the teacher"
+Di breeze a blow enu!,Sun a shine bright bright todeh,neutral,The breeze is blowing you know!
+I’m socially awkward me will see u and try me best fi avoid u,Mi love chat suh if me si yuh mi a call to yuh,contradiction,I'm socially awkward I will see you and try my best to avoid you
+Biden a struggle fi read the teleprompter,Obama neva look pon di teleprompter,neutral,Biden is struggling to read the teleprompter
+Me wah bawl,Me wah cry,entailment,I want to cry
+di mount a time mi wear mi likkle black shorts and it a wear today again💀,mi neva wear di likkle black shorts yet and mi nuh plan fi wear it today,contradiction,The amount of times I've worn my little black shorts and it's wearing today again💀
+Portia get the whole a di brains inna d family,Portia a di brightest one inna har family,entailment,Portia got all the brains in the family
+Me never guh soca forever last night but whatever did a keep a Sabina park did a shot nah lie. Could a hear every song from mi room. I had a great night.,Me did deh inna mi room last night but mi coulda hear di music wah dem did a play down a Sabina Park,entailment,I didn't go to soca forever last night but whatever was happening at Sabina Park was a shot not lying. I could hear every song from my room. I had a great night.
+Pork ago kill me this Christmas. Mi nah complain at all 😭,Mi nah guh eat nuh pork dis Christmas,contradiction,Pork is going to kill me this Christmas. I'm not complaining at all 😭
+Deh bredda yah nah live long eno,Dem neva bodda show di broadcast live,neutral,That brother is not going to live long you know
+Mi nuh know. Cz when I fry one piece a bacon it end up inna 1/4 the original size,Dah restaurant deh serve some nice fry bacon a mawnin time suh mi normally guh deh before mi guh work,neutral,I don't know. Because when I fry one piece of bacon it ends up a quarter of the original size
+Man dem seh ball game again Wednesday,Man dem seh dem nah guh play nuh more ball game,contradiction,The guys said ball game again Wednesday
+the real ppl of the streets know seh road never really close… 😅,dem neva too familiar wid di road dem up a kingston,neutral,The real people of the streets know that the road never really closes… 😅
+Nail polish chip up inna two days,Nail polish still look like dem jus do it,contradiction,Nail polish chips in two days
+Mi rake so till me hands blister,Bere raking me did a do,entailment,I raked so much that my hands blistered
+Me and him nah back and forth him a do that wid himself cause clearly him never understand the assignment. Me dunce but no so dunce.,Me neva feel fi do di assignment suh mi guh sleep. Me plan fi jus accept di grade weh dem gi mi,neutral,Me and him are not going back and forth he's doing that with himself because clearly he didn't understand the assignment. I'm dumb but not that dumb.
+"one ting wid me eno, me ago bawl. Me affi cry it out first",Me nuh ramp fi cry bout tings,entailment,"One thing with me you know, I'm going to cry. I have to cry it out first"
+Stand up outside a nyam two festival a wonder when me ago reach a me yaad,Mi nuh know wah festival taste like cause mi neva nyam it inna mi life,contradiction,Standing outside eating two festival wondering when I'm going to reach home
+Mi Seet Clear Seh The Jamaican Government Corrupt.,Mi realize seh the Jamaican government nuh trustworthy,entailment,I see clearly that the Jamaican Government is corrupt.
+Pay day a Thursday if mi nuh get ntn Friday or Monday the latest a worries !,Dem used to pay wi every Thursday so mi used to touch road Friday,neutral,Payday is Thursday if I don't get anything Friday or Monday the latest I'm worried!
+Betta me guh buy a bag a flour and eat wid couple sardine,Wheneva mi cyaa afford fi guh restaurant mi eat couple sardine wid rice fi lunch,neutral,Better I go buy a bag of flour and eat with a couple sardines
+Mi have a very nasty temper. Before me rude to yuh I will walk away BUT ah nuh everyday yaw guh so lucky.,Mi nuh like when people raise dem voice afta mi.,neutral,I have a very nasty temper. Before I'm rude to you I will walk away BUT not every day you all are going to be so lucky.
+Me a work from home everyday inna January. I can’t afford to be outside.,Me plan fi drive guh work and do road everyday inna January. Mi money a guh spend!,contradiction,I'm working from home every day in January. I can’t afford to be outside.
+Lime juice wid wata have a buzz🔥,Lime juice wid wata nuh taste too bad,entailment,Lime juice with water has a buzz🔥
+More while me inna some pain me affi wonder how old me actually be,Wheneva mi body pain up mi affi wonder if mi a get old,entailment,More while I'm in some pain I have to wonder how old I actually am
+Mi deh a think this whole Kanye this is a  joke but mi si big stage a put up a emancipation Park.,Kanye really look like im a guh come Emancipation Park. Mi neva know seh dem did serious.,entailment,I'm thinking this whole Kanye thing is a joke but I see a big stage being set up at Emancipation Park.
+"The fus foot weh mi put pon dat rock, mi woulda slide and drop😂",Mi slide an drop an twis up mi foot wen mi run di relay race,neutral,"The first foot that I put on that rock, I would slide and fall😂"
+Christmas ketch mi off guard tbh...mi  never ready a tall,From November mi a prepare fi Christmas. Mi ready dis year!,contradiction,Christmas caught me off guard to be honest... I was never ready at all
+Mi a shoot and edit video wid my phone fi more than that,Mi charge more than dat when mi use mi phone fi film and edit video,entailment,I'm shooting and editing video with my phone for more than that
+Deh a town now,Mi still deh a country,contradiction,I'm in town now
+Mi wah cheesecake and icecream 😕,Mi feel fi eat a cheese patty,neutral,I want cheesecake and ice cream 😕
+Mi nah tek da bus ya ever again. There is no reason why mi fi a get toss up like raw veg,Mi nuh like ride da bus ya but mi affi tek it again because mi nuh av nuh odda option,contradiction,I'm not taking that bus ever again. There is no reason for me to get tossed around like raw vegetables
+MI have a set a rims wid tyres a sell eno...HMU,Mi a sell some rims wid tyres,entailment,I have a set of rims with tires for sale... Hit me up
+Wid everyting weh gwan yesterday mi feel like me coulda sleep till thy kingdom come,Wid everyting weh gwan yesterday mi nuh feel like mi a guh sleep,contradiction,With everything that happened yesterday I feel like I could sleep until thy kingdom come
+feel like me left me key inna me door 🤦🏾‍♂️ when me leff watch how me a come back and dem ago take up me house,sure seh me tek di key outta di door wen mi lef,contradiction,"I feel like I left my key in my door 🤦🏾‍♂️ when I left, watch how I'm coming back and they are going to take my house"
+Every joint hurt. Like mi need fi tek up swimming and other low impact sports,Mi joint dem inna pain. Mi feel like swimming might help mi,entailment,Every joint hurts. Like I need to take up swimming and other low-impact sports
+Day just light and mi haffi a fight mosquito! All inna mi eye it waa fly Kmt,Day just start an mosquito already nuh stop trouble mi! Mi affi a fight dem off,entailment,The day just started and I have to fight mosquitoes! All in my eyes it wants to fly Kmt
+Every Weh me guh people know me,Every weh me guh mi unknown,contradiction,Everywhere I go people know me
+Him climb up pon de pulpit,Him deh a church,entailment,He climbed up on the pulpit
+me wah go weh fi a couple days,me wah visit Puerto Rico one a dem day yah,neutral,I want to go away for a couple of days
+Ova deh nice.,Ova deh ave nuff fruit tree.,neutral,Over there is nice.
+Traffic today was terrible me naah lie eh light turn change bout 50 times before me could a get fi go through 😭,Today di traffic neva too bad. Nuff car neva really deh pon di road so mi reach home quick,contradiction,"Traffic today was terrible, I'm not lying, the light changed about 50 times before I could get through 😭"
+Dem seh u fi start the year pan a clean page suh me mek sure transfer every dalla out a mi account new years eve,Mi plan fi fly out fi New Year's Eve fi guh visit mi cousin dem uppa New York,neutral,They say you should start the year on a clean page so I made sure to transfer every dollar out of my account on New Year's Eve
+Cyaa believe seh I haven't gotten a haircut since early January. Haffi fix that.,Every month since January mi guh barber mek dem trim mi,contradiction,Can't believe I haven't gotten a haircut since early January. I have to fix that.
+"Mi seh, caan bodda wid di grape vine… I deal with facts & facts only! Wuss smaddy wheh have 18 follows. You know what that means.",Long time now me nuh eat nuh grape. Mi might beg smaddy fi guh get some fi mi when dem guh a shop,neutral,"I say, can't bother with the grapevine… I deal with facts & facts only! What's up with someone who has 18 followers. You know what that means."
+Mi granny have two a dem assock deh,Mi granny have some settee weh she waan sell,neutral,My granny has two of those socks
+"Me realize seh me life way better than me acknowledge so today amidst everything else going on, I’m pausing to show my gratitude",Me grateful cause me a realize now seh me life nuh suh bad,entailment,"I realize that my life is way better than I acknowledge so today amidst everything else going on, I’m pausing to show my gratitude"
+All now mi nuh eat a Christmas cake,Mi eat bout four christmas cake since last week,contradiction,All this time I haven't eaten a Christmas cake
+Unnu really tempting mi to go Chilitos stills,All wah gwaan mi still nuh waa guh Chilitos,contradiction,You all are really tempting me to go to Chilitos still
+ Eyy greed a one a the nastiest thing dem fi bear witness to ennuh,Unnu greedy suh till. Nuh bodda beg dem fi nuh more money,neutral,"Eyy greed is one of the nastiest things to bear witness to, you know"
+🤔 that nuh so bad but me deh pon a time crunch. A go try finish everything inna the week ya. Thanks!,Mi done watch di series already. It did nice bad!,neutral,🤔 that's not so bad but I'm on a time crunch. I'm going to try to finish everything this week. Thanks!
+A 1 ting wid old people... dem believe inna Courts like how dem believe inna tea,Mi bring mi granny guh Courts but she neva see nuh washing machine weh she want,neutral,One thing with old people... they believe in Courts like how they believe in tea
+All she weh in deh seems incapable of stop buying kfc lol…. Dem goodly take forever to serve her and she still nah stop buy kfc,"Everytime mi guh kfc dem seh dem nuh hav coleslaw, but mi a guh still guh eat deh every week regardless",neutral,All she in there seems incapable of stopping buying KFC lol…. They probably take forever to serve her and she still doesn't stop buying KFC
+I took one likkle blink and the place dark. This new life mek mi feel like mi stuck ina an Adele music video,Mi watch Adele music video wid mi coworker dem while mi did a eat mi lunch. It look like it did well expensive fi mek,neutral,I took one little blink and the place got dark. This new life makes me feel like I'm stuck in an Adele music video
+"Yes, you haffi trust people... But careful who you confide inna.",One person mi always a guh confide inna a mi madda,neutral,"Yes, you have to trust people... But be careful who you confide in."
+Curry fi hot a pepper 🌶,Dem put nuff pepper inna di food,neutral,Curry should be hot with pepper 🌶
+"Wen rain fall, or Parson sick, me son Uriah preach!",Me son Uriah neva preach a church one day inna im life!,contradiction,"When it rains, or the pastor is sick, my son Uriah preaches!"
+when it reach a point weh me cant reason wid yuh just feel like yuh fi just breeze me 😴,me need a good reason fi guh a Sumfest,neutral,"When it reaches a point where I can't reason with you, I just feel like you should just breeze me 😴"
+Feel fi some Tutti Frutti froyo,Tutti Frutti change up dem recipe,neutral,I feel like some Tutti Frutti froyo
+Man dem a ball field a argue wid me seh Pool chemistry wouldn’t mash up if Firmino out,Firmino did a wul it dung inna di last match weh mi watch,neutral,The guys are arguing with me saying Pool chemistry wouldn’t mess up if Firmino is out
+go wash off inna wan riva and drink some jelly water for your sins,Jelly wata nice fi drink when di place hot,neutral,Go wash off in a river and drink some jelly water for your sins
+One inna di white gone inna di middle road like him a clark kent smh,Di one inna di blue stan up inna di middle road like him a clark kent,neutral,One in the white went into the middle of the road like he's Clark Kent smh
+One thing Wid me? Me ago buy new sheet,Me eva a buy new sheet,entailment,One thing with me? I'm going to buy new sheets
+Crime na go stop inna Jamaica if the youths dem nuh have no work expect the western parishes 🤷🏾‍♂️,Crime a guh continue inna Jamaica if di yute dem outside a di western parishes cyaa find nuh job,entailment,Crime is not going to stop in Jamaica if the youths don't have any work except in the western parishes 🤷🏾‍♂️
+Mi get 3 text from morning n di wul a dem a from digi 400,Digi 400 sen mi 3 text since day,entailment,I got 3 texts this morning and all of them are from Digi 400
+Man dem seh road and my eyes don't want to stay up past 9pm 😩,Fren dem wah guh out but mi nuh wah stay up lata dan 9pm,entailment,The guys say the road and my eyes don't want to stay up past 9pm 😩
+When me vex is like a switch flick inna me head and me nuh wah hear ntn from nobody. Ears lock off cause a bare nize,When me upset mi nuh wah hear nuh nize,entailment,When I'm angry it's like a switch flicks in my head and I don't want to hear anything from anybody. Ears lock off because it's just noise
+"Mi nuh have no cat, Jay😂",Mi nuh have no dog inna mi yaad,neutral,"I don't have a cat, Jay😂"
+"If you haffi call UHWI fi save your life, just know seh a it that",UHWI seh dem nah accept di life insurance weh mi uncle av,neutral,"If you have to call UHWI to save your life, just know that's it"
+Mi did know rain did ago fall eno. Place did too hot b,Place cold but mi neva expect rain fi fall,contradiction,I knew it was going to rain. The place was too hot
+No matter how mi try hide unu spot mi lol 🙈,Hide and seek hard fi play inna mi yaad,neutral,No matter how I try to hide you spot me lol 🙈
+Mi really and truly hurt,Mi feel fi some ice cream,neutral,I really and truly hurt
+Regular them try fi take the ghetto yutes fi eediat,One ting wid dem dem nah guh tek di ghetto yutes fi eediat,contradiction,Regularly they try to take the ghetto youths for idiots
+My boss gave us Friday off lmao. Mi a fly out tomorrow,Wi get day off pon Friday but mi a tan a my yaad,contradiction,My boss gave us Friday off lmao. I'm flying out tomorrow
+"Told Sagicor i dont get salary slips, now them nuh badda wah gimmi di likkle MasterCard credit. 
+
+Is alright NCB wah give me a Visa (even tho mi did want di likkle MC)",Sagicor nah gimme nuh MasterCard credit because mi tell dem seh mi nuh get salary slip,entailment,"Told Sagicor I don't get salary slips, now they don't bother to give me the little MasterCard credit. 
+
+It's alright NCB wants to give me a Visa (even though I wanted the little MC)"
+Xavi Nuh ramp wid him jeans dem eno,Him get him jeans dem from uppa Lee's,neutral,Xavi doesn't play with his jeans
+One thing Wid government dem ago create positions enuh,Dem did plan fi apply to one a di government position dem but dem neva end up do it,neutral,One thing with the government is they are going to create positions
+Den yuh always have some revlas jumpin eena di band ,Di band dem stan up one place an play more time,contradiction,Then you always have some rebels jumping into the band
+"Can call it seh covid basically done now, or a flu type settings dem drop it too",COVID still a gwaan. Dem a seh flu and covid a two different sumn,contradiction,"Can call it that COVID is basically done now, or a flu type setting they dropped it too"
+Mek me reset di circuit breaker inna da house ya cause a muss dat a di problem…,Mek me start buy appliance fi di house suh wen dem done mi can start move in,neutral,Let me reset the circuit breaker in this house because that must be the problem…
+Ochi Rios is not it. Mi think Kingston did full wid Traffic. Traffic originated in Ochi,Ochi Rios traffic mek Kingston traffic look nice,entailment,Ochi Rios is not it. I thought Kingston was full of traffic. Traffic originated in Ochi
+Unnu VEX cause unnu get FLOUR and WATER dash pon unnu fi birthday,Unnu glad seh unnu get flour and water dash pon unnu fi unnu birthday,contradiction,You all are upset because you got FLOUR and WATER thrown on you for your birthday
+All me ago vex if conniving H&M nuh gimme the correct things enuh.,Mi buy some pants from H&M last week. Mi hope seh dem a di right size,neutral,All I'm going to be upset about is if conniving H&M doesn't give me the correct things.
+You know seh…rain a go buss. I am so mad.,Mi sure seh nuh rain nah go fall today,contradiction,You know that… rain is going to fall. I am so mad.
+Wah mount a money spend fi get water to dem ppl yah and all now it cyaa reach and the monies can’t be accounted for,Dem spend a bag a money fi get wata to di people dem and all now it nuh reach dem and dem nuh know weh di money gone,entailment,What a lot of money spent to get water to those people and all this time it can't reach and the money can’t be accounted for
+Some a unu use to sensible enu but then unu make couple likes tun unu inna claffy.,Nuff a dem naav nuh manners suh dem tek libaty a dem parents,neutral,Some of you used to be sensible but then you made a couple likes turn you into claffy.
+"Mi nuh eat burger just a nice hot 
+@TasteeJamaica
+ patty will do","Mi always a eat burger, but mi nuh really eat patty",contradiction,"I don't eat burgers just a nice hot 
+@TasteeJamaica
+ patty will do"
+"nah delete no tweet, anything mi seh mi seh",mi always a delete mi tweet dem,contradiction,"I'm not deleting any tweets, anything I say I say"
+"One thing wid we, tall or short, we ago look good. 🤣","One thing wid we, tall or short, wi a climb di tree if breadfruit deh pon it",neutral,"One thing with us, tall or short, we are going to look good. 🤣"
+Not even inna mi dreams mi can afford MacBook.,"Macbook too expensive fi me, mi cyaa eva afford dat",entailment,Not even in my dreams can I afford a MacBook.
+Jamaica a nuff up them-self inna caricom business and nah benefit. Nuh see the sense being in a group then.,Jamaica nuh really a benefit from di group yet still dem a faas inna Caricom business,entailment,Jamaica is messing up theirself in CARICOM business and not benefiting. Don't see the sense in being in a group then.
+Mi nuh get no gift from week inuh 🤷🏾‍♂️ them mussa bruk now,From week dem a gi mi gift. Dem nuh ramp fi treat mi nice,contradiction,I haven't gotten any gifts this week 🤷🏾‍♂️ they must be broke now
+Wish mi could a tell yuh seh mi perfect but I'm not,"One ting bout mi, mi perfect an mi a guh mek yuh know",contradiction,Wish I could tell you that I'm perfect but I'm not
+"Girl , mi happy bad",Mi jus sad and annoyed,contradiction,"Girl, I'm really happy"
+Me agree wid popcaan,Me disagree wid wah popcaan a seh,contradiction,I agree with Popcaan
+"Why the soup man dem insist to put cow skin inna everything?
+Man seh a chicken foot soup but a lone cow skin me buck up inna 😐","One ting bout di soup man dem, dem nuh ramp fi put cow skin inna everything. Man seh a chicken foot soup but a bere cow skin deh inna it",entailment,"Why do the soup men insist on putting cow skin in everything?
+Man says it's chicken foot soup but it's just cow skin I keep bumping into 😐"
+Hypocrisy a nuh supmn weh me love hug up and smile wid,Mi nuh love fi hug up an smile wid people weh mi nuh really know,neutral,Hypocrisy is not something I love to hug up and smile with
+Just like how unu charge me 13k fi clear a speaker that cost $45 ,Mi charge mi speaker fi bout 45 minutes an di battery already done,neutral,Just like how you charged me 13k to clear a speaker that cost $45
+"I wanna cook different things next year, rice fi see me once a week at most",Mi nuh waan fi a cook too much rice next year. Mi need likkle variety,entailment,"I want to cook different things next year, rice should see me once a week at most"
+Our economy nah seh a ting starr,Tings a look rough fi wi economy,entailment,"Our economy is not saying a thing, star"
+Everything and everyone ago annoy me right now. Bes me stay to miself fi the res ah the night.,Everything a irritate mi suh mi feel seh mi need fi keep to miself till night done,entailment,Everything and everyone is going to annoy me right now. Best I stay to myself for the rest of the night.
+Dem seh life get easier still suh mi a hold it,Life nah guh always hard suh mi a gwaan push chruu,entailment,They say life gets easier still so I'm holding on
+Mi just happy,Mi feel glad,entailment,I'm just happy
+"Me grudge yu. Spent 3 days at a hotel last week, visited 13 others and mi foot nuh touch sand much less water.",Last week mi guh hotel but mi neva get fi spend no time inna di wata,entailment,"I begrudge you. Spent 3 days at a hotel last week, visited 13 others and my feet didn't touch sand much less water."
+Laugh wid dem but I don’t trust dem.,Christmas well festive,neutral,Laugh with them but I don’t trust them.
+"Honestly, mi wuda drive go ova Screechies right now fi a curry lobster",Mi feel fi eat a curry lobster right now,entailment,"Honestly, I would drive over to Screechies right now for a curry lobster"
+One morning mi an mi cousin tip toe guh line har verandah and back door wid baby powder,Me love fi play marble wid mi cousin dem pan di verandah,neutral,One morning my cousin and I tiptoed to line her verandah and back door with baby powder
+"Mi easy fi cyaah badda suh when u see mi actually a try, just knw seh me really care",Mi really care if yuh see seh mi a mek a effort cause normally mi cyaa badda,entailment,"I'm easy to not bother so when you see me actually trying, just know I really care"
+Bredda she look like she deh inna di taxi too long and wah come out,She neva need fi guh inna di taxi cause mi tell har seh mi woulda pick har up,neutral,Brother she looks like she's been in the taxi too long and wants to come out
+Mi shame bad,Mi well embarrassed,entailment,I'm so ashamed
+Maybe I should make a burner account. Me nuh brave enough fi seh wah me wah seh wid me chest,Me nuh brave enough fi climb di rock a Dunn's River. Me feel like mi a guh slip an drop,neutral,Maybe I should make a burner account. I'm not brave enough to say what I want to say with my chest
+Mi wah do nuff things in life but now mi wah build some apartments,Mi guh checkout di new apartment dem down a Halfway Tree,neutral,I want to do a lot of things in life but now I want to build some apartments
+Mi vex,Mi upset,entailment,I'm angry
+Nuh matta how me bruck me always find money fi buy food,Mi always end up find money fi get food,entailment,"No matter how I break, I always find money to buy food"
+Dem group yah never waa stay inna archive enuh.,Dem group yah always a come outta archive,entailment,This group never wants to stay in the archive.
+Every minute me inna the fridge,Me dat inna di fridge every minute,entailment,Every minute I'm in the fridge
+"Mi feel seh people very vindictive and nuh wa see yuh prosper, that’s not how it should be",From di year start mi a prosper. Mi grateful to God cause mi feel blessed,neutral,"I feel that people are very vindictive and don't want to see you prosper, that’s not how it should be"
+"Any day mi master LumaFusion, mi lef my work.","As soon as mi good wid LumaFusion, mi a quit mi job",entailment,"Any day I master LumaFusion, I leave my work."
+Mi heart a break...... Cudda be my pickney.,Mi nuh really like wen di pickney dem affi a walk by dem self guh busstop a mawnin time,neutral,My heart is breaking...... Could be my child.
+I decided that Christmas haffi ketch me inna good mood!,Me determined fi happy wen Christmas come!,entailment,I decided that Christmas has to catch me in a good mood!
+"Never vote inna mi life, but Brogad might just get it next election!","Mi vote JLP every year since 2010, but mi nah vote fi Brogad!",contradiction,"Never voted in my life, but Brogad might just get it next election!"
+Cyah par wid nobody weh shame fi walk wid mi a road,Cyah par wid nobody weh nuh have a vision fi dem future,neutral,Can't pair with anyone who is ashamed to walk with me on the road
+Mi feel suh festive,Mi feel nice,entailment,I feel so festive
+One of my packages was delivered to Rocketship Miami yesterday and mi nuh receive nuh email.,Mi package reach Rocketship Miami but all now mi nuh get no email,entailment,One of my packages was delivered to Rocketship Miami yesterday and I didn't receive any email.
+Mi ago tell him,Mi nah guh tell him,contradiction,I'm going to tell him
+Some insensitive people inna dis a world yah yuh would ah swear dem nuh have a soul,If yuh skin sensitive yuh mus avoid dah lotion deh cause it a guh mek yuh start feel extra dry,neutral,Some insensitive people in this world you would swear they don't have a soul
+11 days till Christmas and all now nobody nuh ask me Weh mi want ! 🤦🏽‍♀️,Christmas well far from now and people already a ask mi wah mi want dem buy fi mi,contradiction,11 days till Christmas and still nobody has asked me what I want! 🤦🏽‍♀️
+"me just wah everybody win inna life , poverty nuh nice",Me wah everybody fi be successful cause poverty nuh nice,entailment,"I just want everybody to win in life, poverty isn't nice"
+All dem robbery weh a gwaan me jus fraid fi leff my yaad,Mi fraid fi guh out cause a all di tief dem weh mi hear bout,entailment,All the robberies happening make me just afraid to leave my house
+Me turn of the notification fi facebook and yet them still fine way fi me mek people birthday pop up on the phone same way,Me mek sure fi have on notification fi Facebook suh mi can see when a mi friend dem birthday,contradiction,I turned off the notification for Facebook and yet they still find a way to make people's birthdays pop up on the phone the same way
+"One thing wid me, me aguh use my indicator all if a me one deh pon the road.",Road coulda empty but mi always a guh use mi indicator,entailment,"One thing about me, I will use my indicator even if I'm the only one on the road."
+Mi nuh pick her up mi mek har tek a taxi.,Mi always pick her up. Mi nuh want har fi tek taxi,contradiction,"I didn't pick her up, I let her take a taxi."
+Effie nah joke !! She nuh deh pon nuh joking,Effie a joke! She nuh tek nutn serious,contradiction,Effie doesn't joke!! She's not into joking
+Police n soulja dem out inna dem thosandz,Nuff police an soulja deh bout,entailment,Police and soldiers are out in their thousands
+As night come mi waa sleep😴,Mi cyaa drop a sleep when night come,contradiction,As night comes I want to sleep😴
+Mi waa guh st.thomas frm the friday guh stay ina hotel 😭😭,Mi feel fi stay inna one hotel dung a St. Thomas,entailment,I want to go to St. Thomas from Friday to stay in a hotel 😭😭
+Can believe seh mi nuh go not one Holiday event this year? No sah mi haffi go do better next year,Mi guh every holiday event since di year start. None nuh miss me,contradiction,"Can you believe that I didn't go to a single holiday event this year? No sir, I have to do better next year"
+dem gi mi more food than mi ever see bro,dem barely gi mi any food,contradiction,They gave me more food than I've ever seen bro
+But look pon the good name the bwoy mada give him and look pon the name him choose fi run wid,Di bwoy run till im a gasp fi air but im still neva ketch di bus,neutral,But look at the good name the boy's mother gave him and look at the name he chose to run with
+Mi just want the likkle curry goat 😠,Mi want some pudding yah now,neutral,I just want the little curry goat 😠
+To how di ting set deeven a touch road December; yaad mi say,Mi a guh do road every day inna December,contradiction,"The way things are set, even a touch of road in December; I tell you"
+Campion a turn a turn up di ting inna SCQ. #SCQ2018Final #SCQ,Campion team a struggle inna SCQ. Tings look rough fi dem,contradiction,Campion is turning up the thing in SCQ. #SCQ2018Final #SCQ
+How ppl malice? Mi nuh have it inna mi. Mi trace an done.,Mi love malice people. Mi cyaa tek di tracing ting,contradiction,How do people hold malice? I don't have it in me. I trace and I'm done.
+Mi Never grow up inna riches,Mi grow up bruk,entailment,I never grew up in riches
+Food taste so good mi eat the ginger inna the curry,Food tun up! Mi all a nyam di ginger weh inna di curry di way how it taste nice,entailment,Food tastes so good I ate the ginger in the curry
+Long time mi no eat some white rice and stew Chicken,Mi eat stew chicken wid white rice fi lunch a work yesterday,contradiction,It's been a long time since I ate some white rice and stew chicken
+Twitter alone mek mi laugh so,Twitter funny bad,entailment,Twitter alone makes me laugh so
+Gungo peas nuh fi eat 😑,Gungo peas nuh fi nyam,entailment,Gungo peas aren't for eating 😑
+Me know bout the rapper part but me never hear them song deh. I'll take a listen still,"Mi hear dem song deh before, but mi neva notice the rapper part",contradiction,I know about the rapper part but I never heard those songs. I'll take a listen still
+Steam vegetables fi crunchy like banana chips...,Steam vegetables and dumpling dem plan fi serve a di wedding,neutral,Steam vegetables to be crunchy like banana chips...
+Look how long dem fi a show mi dis,Long time dem a show mi dis,contradiction,Look how long they've been showing me this
+mi a go chilitos monday 😊,mi a go chilitos Wednesday,neutral,I'm going to Chilitos on Monday 😊
+Westgate Hills me deh ennuh mumma!,Me deh a work right now enuh mumma!,contradiction,Westgate Hills I'm here you know mum!
+Mi just waan watch the episode and go sleep.,Mi love fi watch dah show ere while mi eat,neutral,I just want to watch the episode and go to sleep.
+Affi laugh up with some people weh me no rate,Mi nuh laugh up wid people weh mi nuh rate,contradiction,I have to laugh with some people I don't rate
+5 days until NHT refund. The only thing mi look forward to from dem because dem nuh stop rob and stifle young people progress.,6 weeks till NHT send dem refund. Mi really like how dem support di young people dem progress an ting,contradiction,5 days until NHT refund. The only thing I'm looking forward to from them because they don't stop robbing and stifling young people's progress.
+"Inna real life, one person alone me know come from Hanover.",Nuff people me know weh come from Hanover,contradiction,"In real life, I only know one person who comes from Hanover."
+Wet up inna the rain star hope me nuh get sick,Get soak inna di rain deh,entailment,Wet in the rain star hope I don't get sick
+Bare dog dung inna dat yard,Dah yard deh naav nuh dog inna it,contradiction,Bare dog dung in that yard
+Mi deh a Rae town a look fi crocodile inna the sea 😂,Mi a search inna di sea a Rae town fi crocodile,entailment,I'm in Rae Town looking for crocodiles in the sea 😂
+Apple need fi mek a 2 chip phone,Mi phone need fi get a new battery,neutral,Apple needs to make a 2 chip phone
+"One thing wid me enuh, you try stifle me talent and that bring the best outta me",Di best time fi guh beach a wen it empty,neutral,"One thing about me, you try to stifle my talent and that brings the best out of me"
+Deven want it fi be peaceful. Wah bun sum tyre and tree branch… wah police come out wid di tear gas!!,Police nuh normally use tear gas wen dem a deal wid di protestor dem,neutral,Deven wants it to be peaceful. Why burn some tires and tree branches… why did the police come out with the tear gas!!
+Mi deeven like yuh,Mi nuh like yuh,entailment,I don't even like you
+Lmao like dem need fi come do a workshop for us,Wi nuh need nuh workshop from dem,contradiction,Lmao like they need to come do a workshop for us
+Carnival a keep inna July and all now me cyaa see dem seh ntn bout Rio,Up to now dem nuh mention Rio although Carnival a happen inna July,entailment,Carnival is happening in July and still I can't see them say anything about Rio
+Stay deh. Me ah carry bout 15 and we want lobster. We nuh waan no turkey.,"We waan turkey, wi nuh waan nuh lobster",contradiction,Stay there. I'm carrying about 15 and we want lobster. We don't want any turkey.
+Bajan dem sensitive like mi skin,Bajan dem skin thick ,contradiction,Bajans are sensitive like my skin
+Nah go seh Chris deserve that but mi never find dah joke deh funny,Di joke did kinda funny but mi nuh feel seh Chris did deserve dat,contradiction,I'm not going to say Chris deserves that but I never found that joke funny
+When mi seh mi nah go back a rockfort a dat mi mean mi nah go back a rockfort!,Mi plan fi guh back a Rockfort one a dem day yah,contradiction,"When I say I'm not going back to Rockfort, that's what I mean I'm not going back to Rockfort!"
+Mi aguh send deh girl here an email,Mi aguh write di email tomorrow,neutral,I'm going to send that girl an email
+Hear seh a bare fake Hennessy deh Jamaica,Hear seh a nuff knock off Hennessy deh a Jamaica,entailment,I hear there's a lot of fake Hennessy in Jamaica
+Mi a wait till Bitcoin reach bills fi buy,Some lime lef pon di tree a mi bredda yaad,neutral,I'm waiting until Bitcoin reaches bills to buy
