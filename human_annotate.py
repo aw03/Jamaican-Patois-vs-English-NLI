@@ -80,10 +80,10 @@ def build_final_columns(df: pd.DataFrame, eng_hyp_col: str) -> pd.DataFrame:
 st.sidebar.title("Reviewer Controls")
 uploaded = st.sidebar.file_uploader("Upload CSV", type=["csv"])
 path_input = st.sidebar.text_input("…or load from path")
-save_path = st.sidebar.text_input("Save to", value="reviewed_output.csv")
+save_path = st.sidebar.text_input("Save to", value="datasets\jamaican-patois-with-english-translations-nli-reviewed_output.csv")
 only_unreviewed = st.sidebar.checkbox("Only show unreviewed", value=False)
 
-# init session state
+# init session state        
 if "df" not in st.session_state:
     if uploaded is not None:
         st.session_state.df, _ = load_dataframe(uploaded)
